@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\queue\queue\obj\Debug\queue.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\queue\queue\obj\Debug\queue.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\queue\queue\bin\Debug\queue.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\queue\queue\bin\Debug\queue.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\queue\queue\bin\Debug\queue.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\queue\queue\obj\Debug\queue.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\queue\queue\obj\Debug\queue.pdb

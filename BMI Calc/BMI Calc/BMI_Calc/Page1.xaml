@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BMI_Calc.Page1">
+    <ContentPage.Content>
+        
+            <StackLayout BackgroundColor="Aquamarine" Padding=" 60" VerticalOptions="Center">
+            <Label Text="Height" TextColor="Red"></Label>
+
+
+            
+
+
+                <Entry x:Name="height" Placeholder=" Enter height in cm" BackgroundColor="LightGoldenrodYellow"  Keyboard="Numeric"></Entry>
+               
+            <Label Text="Weight" TextColor="Red"></Label>
+            <Entry x:Name="weight" Placeholder="Enter weight in Kg" BackgroundColor="LightGoldenrodYellow" Keyboard="Numeric"></Entry>
+                <Button Clicked="Button_Clicked" Text="Done" TextColor="DarkGreen" BackgroundColor="Cyan"
+                    />
+                <Label x:Name="MainLabel" TextColor="Honeydew" FontSize="35"></Label>
+            </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

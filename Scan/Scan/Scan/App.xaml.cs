@@ -13,7 +13,8 @@ namespace Scan
 		{
 			InitializeComponent();
 
-			MainPage = new Scan.MainPage();
+            MainPage = new NavigationPage(new MainPage());
+
 		}
 
 		protected override void OnStart ()

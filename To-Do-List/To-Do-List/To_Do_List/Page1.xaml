@@ -7,7 +7,7 @@
             <Label Text="Scribble your notes..." FontSize="Large" TextColor="Red"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
-            <Button Clicked="NavigateButton_Clicked" Text="Start" BackgroundColor="PaleGreen"></Button>
+            <Button Clicked="NavigateButton_Clicked" Text="Start" BackgroundColor="Violet"></Button>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

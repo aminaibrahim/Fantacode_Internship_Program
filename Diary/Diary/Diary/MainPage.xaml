@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Diary"
+             x:Class="Diary.MainPage">
+    <ContentPage.Content>
+       
+            <StackLayout BackgroundColor="Pink">
+                <Label Text="A collection of moments from your life..." TextColor="Red" FontSize="Large"></Label>
+
+                <Label Text="Date" TextColor="DarkOrange" FontSize="Medium"></Label>
+                <Entry x:Name="today" Placeholder=" Day/Month/Year"></Entry>
+                <Label Text=" Title"  TextColor="PaleVioletRed" FontSize="Medium"></Label>
+                <Entry x:Name=" title" Placeholder="Title" ></Entry>
+                <Label Text="Add Notes"  TextColor="Blue"></Label>
+                <Entry x:Name="note" Placeholder="Start typing here"></Entry>
+            <Button Clicked="NavigateButton_Clicked" Text="Save" BackgroundColor="Lavender"></Button>
+            </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

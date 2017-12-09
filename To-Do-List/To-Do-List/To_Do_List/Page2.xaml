@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="To_Do_List.Page2">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="LightYellow">
+            <ListView x:Name="MainListView" HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Vertical" Padding="30">
+                                <Grid BackgroundColor="LightYellow" HeightRequest="100" >
+                                    <StackLayout Orientation="Vertical" Padding="20" BackgroundColor="Orange"  >
+
+                                        <Label Text="{Binding Date}"/>
+                                        <Label Text="{Binding Time}"/>
+                                        <Label Text="{Binding Note}"/>
+                                    </StackLayout>
+                                </Grid>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>    
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

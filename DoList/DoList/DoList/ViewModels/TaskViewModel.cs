@@ -14,9 +14,13 @@ namespace DoList.ViewModels
 {
     public class TaskViewModel : INotifyPropertyChanged
     {
-        private TaskModel _task;
         
-        public TaskModel task
+        public ICommand AddCommand { get; set; }
+        public ICommand SaveCommand { get; set; }
+        public INavigation Navigation { get; set; }
+       
+        private TaskModel _task;
+        public TaskModel Taskm
         {
             get { return _task; }
             set
@@ -27,15 +31,16 @@ namespace DoList.ViewModels
         }
 
         private ObservableCollection<TaskModel> _list;
-        public ObservableCollection<TaskModel> list
-        {
-            get { return _list; }
+        public ObservableCollection<TaskModel> List
+        { get; set; }
+            /*get { return _list; }
             set
             {
 
                 _list = value;
+                
             }
-        }
+        }*/
 
         private string _message;
         public string message
@@ -50,45 +55,35 @@ namespace DoList.ViewModels
                 OnPropertyChanged();
             }
         }
-       
-        public Command AddCommand
-        {
-            get
-            {
-                return new Command(() =>
-                {
-                    
-                    list.Add(task);
-                    message = "your task  is saved";
-
-                });
-            }
-        }
-
-
-        public ICommand SaveCommand { get; set; }
-
-        public INavigation Navigation { get; set; }
-
 
         public TaskViewModel(INavigation navigation)
         {
-            task = new TaskModel
+            Taskm = new TaskModel
             {
                 task = "",
                 date = "",
                 time = ""
 
             };
-            list = new ObservableCollection<TaskModel>();
+            List = new ObservableCollection<TaskModel>();
+            {
+            };
             this.Navigation = navigation;
             this.SaveCommand = new Command(async () => await GotoPage2());
+            this.AddCommand = new Command(() =>
+            {
+
+                List.Add(Taskm);
+                message = "your task  is saved";
+
+            });
         }
+
 
         public async Task GotoPage2()
         {
 
-            await Navigation.PushAsync(new Page2());
+            await Navigation.PushAsync(new Page2(List));
         }
 
         public event PropertyChangedEventHandler PropertyChanged;

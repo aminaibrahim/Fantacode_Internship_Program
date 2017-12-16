@@ -6,7 +6,7 @@ namespace DoList
 {
    public class TaskModel
     {
-        public string task { get; set; }
+        public string task { get; set;}
         public string date {get; set;}
         public string time { get; set; }
     }

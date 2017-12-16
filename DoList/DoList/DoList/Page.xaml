@@ -5,9 +5,9 @@
     <ContentPage.Content>
         <StackLayout>
 
-            <Entry x:Name="Task" Placeholder="TaskName"  Text="{Binding TaskModel.task, Mode=TwoWay}"  TextColor="Black"></Entry>
-            <Entry x:Name="Date" Placeholder="Date"    Text="{Binding TaskModel.date, Mode=TwoWay}"  TextColor="Black"></Entry>
-            <Entry x:Name="Time" Placeholder="Time" Text="{Binding TaskModel.time, Mode=TwoWay}" TextColor="Black"></Entry>
+            <Entry Placeholder="TaskName"  Text="{Binding Taskm.task, Mode=TwoWay}"  TextColor="Black"></Entry>
+            <Entry  Placeholder="Date"    Text="{Binding Taskm.date, Mode=TwoWay}"  TextColor="Black"></Entry>
+            <Entry  Placeholder="Time" Text="{Binding Taskm.time, Mode=TwoWay}" TextColor="Black"></Entry>
             <Button Text="Add" Command="{Binding AddCommand}" BackgroundColor="Red"></Button>
             <Button Text="Save" Command="{Binding SaveCommand}"  BackgroundColor="Red" ></Button>
             <Label Text="{Binding message}" TextColor="Black"></Label>

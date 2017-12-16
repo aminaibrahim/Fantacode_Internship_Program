@@ -2,31 +2,31 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="DoList.Page2">
-    <ListView HasUnevenRows="True" ItemsSource="{Binding list}" CachingStrategy="RecycleElement"
-              RowHeight="60">
-        <ListView.ItemTemplate>
-            <DataTemplate>
-                <ViewCell>
-                    <StackLayout Orientation="Vertical" Padding="30">
-                        <Grid BackgroundColor="LightYellow" HeightRequest="190" >
-                            <StackLayout Orientation="Vertical" Padding="20" BackgroundColor="PaleGoldenrod"  >
-                                <StackLayout Orientation="Horizontal">
-                                    <Label Text="Task" WidthRequest="60" TextColor="Black"></Label>
-                                    <Label Text="{Binding task}"/>
-                                </StackLayout>
-                                <StackLayout Orientation="Horizontal">
-                                    <Label Text="Date" WidthRequest="60" TextColor="Black"></Label>
-                                    <Label Text="{Binding date}"/>
-                                </StackLayout>
-                                <StackLayout Orientation="Horizontal">
-                                    <Label Text="Time" WidthRequest="60" TextColor="Black"></Label>
-                                    <Label Text="{Binding time}"/>
-                                </StackLayout>
+   
+  <ListView HasUnevenRows="True" ItemsSource="{Binding List}">
+    <ListView.ItemTemplate>
+        <DataTemplate>
+            <ViewCell>
+                <StackLayout Orientation="Vertical" Padding="30">
+                    <Grid>
+                        <StackLayout Orientation="Vertical" Padding="20" BackgroundColor="PaleGoldenrod">
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="Task" WidthRequest="60" TextColor="Black"></Label>
+                                <Label Text="{Binding task, Mode=TwoWay}" />
                             </StackLayout>
-                        </Grid>
-                    </StackLayout>
-                </ViewCell>
-            </DataTemplate>
-        </ListView.ItemTemplate>
-    </ListView>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="Date" WidthRequest="60" TextColor="Black"></Label>
+                                <Label Text="{Binding date, Mode=TwoWay}"/>
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="Time" WidthRequest="60" TextColor="Black"></Label>
+                                <Label Text="{Binding time, Mode=TwoWay }"/>
+                            </StackLayout>
+                        </StackLayout>
+                    </Grid>
+                </StackLayout>
+            </ViewCell>
+        </DataTemplate>
+    </ListView.ItemTemplate>
+</ListView>
 </ContentPage>

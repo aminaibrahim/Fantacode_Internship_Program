@@ -19,6 +19,7 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)Model\TaskModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\ListViewModel.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)ViewModels\TaskViewModel.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="My_Diary.Menu"
+             xmlns:local="clr-namespace:My_Diary">
+    <MasterDetailPage.Master>
+        <ContentPage Title="Menu">
+            <StackLayout>
+                <Button BackgroundColor="Pink" Text="Settings"></Button>
+                <Button BackgroundColor="Pink" Text= "Add Note"></Button>
+            </StackLayout>
+        </ContentPage>
+    </MasterDetailPage.Master>
+    <MasterDetailPage.Detail>
+        <local:MainPage></local:MainPage>
+    </MasterDetailPage.Detail>
+</MasterDetailPage>
+                                                                                          

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="My_Diary.Login">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key ="customlabel"
+                   TargetType = "Label">
+                <Setter Property="TextColor"
+                        Value="Navy"></Setter>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <StackLayout Orientation="Vertical">
+        <Label Text="Name"
+               Style="{StaticResource customlabel}"/>
+        <Entry x:Name="NAME"
+               TextColor="Red" />
+        <Label Text="Age"
+               Style="{StaticResource customlabel}"/>
+        <Slider Minimum="5" Maximum="100"></Slider>
+        <Button Clicked="NavigateButton_OnClicked"
+                Text="Save"
+                TextColor="Red"></Button>
+    </StackLayout>
+</ContentPage>

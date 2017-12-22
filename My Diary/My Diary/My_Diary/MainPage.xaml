@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:My_Diary"
+             x:Class="My_Diary.MainPage">
+    <StackLayout Orientation="Vertical" BackgroundColor="White">
+            <Label Text="My Diary"
+                   FontSize="Large"
+                   TextColor="Red"
+                   VerticalOptions="CenterAndExpand" 
+                   HorizontalOptions="CenterAndExpand"/>
+        <Button Clicked="Button_Clicked"
+                Text="Login"
+                BackgroundColor="Pink" 
+                TextColor="White"/>
+        <Button Clicked="NavigateButton_Clicked" 
+                Text="Add Note"
+                BackgroundColor="Pink" 
+                TextColor="White"/>
+
+    </StackLayout>
+   
+</ContentPage>

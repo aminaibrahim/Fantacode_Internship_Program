@@ -9,7 +9,7 @@
                 <RowDefinition Height="Auto" />
             </Grid.RowDefinitions>
 
-            <Image x:Name="PhotoImage" />
+            <Image Source="{Binding PhotoImage}"/>
             <Button x:Name="CameraButton" Text="Take Photo" Grid.Row="1" />
         </Grid>
     </ContentPage.Content>

@@ -1,0 +1,13 @@
+C:\Users\user\Documents\GitHub\fantacodeintern\Task_10\Task_10\Task_10\obj\Debug\netstandard2.0\Task_10.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\fantacodeintern\Task_10\Task_10\Task_10\obj\Debug\netstandard2.0\Task_10.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\fantacodeintern\Task_10\Task_10\Task_10\obj\Debug\netstandard2.0\Task_10.App.xaml.g.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\Task_10\Task_10\Task_10\obj\Debug\netstandard2.0\Task_10.SearchBarDemo.xaml.g.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\Task_10\Task_10\Task_10\obj\Debug\netstandard2.0\Task_10.UI.BigTemplate.xaml.g.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\Task_10\Task_10\Task_10\obj\Debug\netstandard2.0\Task_10.UI.SmallTemplate.xaml.g.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\Task_10\Task_10\Task_10\obj\Debug\netstandard2.0\Task_10.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\fantacodeintern\Task_10\Task_10\Task_10\obj\Debug\netstandard2.0\Task_10.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\Task_10\Task_10\Task_10\obj\Debug\netstandard2.0\Task_10.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\Task_10\Task_10\Task_10\obj\Debug\netstandard2.0\Task_10.pdb
+C:\Users\user\Documents\GitHub\fantacodeintern\Task_10\Task_10\Task_10\bin\Debug\netstandard2.0\Task_10.deps.json
+C:\Users\user\Documents\GitHub\fantacodeintern\Task_10\Task_10\Task_10\bin\Debug\netstandard2.0\Task_10.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\Task_10\Task_10\Task_10\bin\Debug\netstandard2.0\Task_10.pdb

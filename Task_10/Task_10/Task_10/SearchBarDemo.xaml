@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Task_10"
+             x:Class="Task_10.MainPage"
+             xmlns:ui="clr-namespace:Task_10.UI;assembly=Task_10"
+             BackgroundColor="Gray">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <ui:TemplateSelectorcs x:Key="TemplateSelectorcs"></ui:TemplateSelectorcs>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <StackLayout>
+        <SearchBar x:Name="MainSearch" SearchButtonPressed="OnPressed"></SearchBar>
+        <ListView x:Name="MainList"  Header="" Footer="" HasUnevenRows="True" ItemTemplate="{StaticResource TemplateSelectorcs}">
+
+            <ListView.HeaderTemplate>
+                <DataTemplate>
+                    <Grid Padding="10">
+                        <Label Text="Beginning of list" TextColor="Blue">
+                        </Label>
+                    </Grid>
+                </DataTemplate>
+            </ListView.HeaderTemplate>
+      
+
+            <!--<ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid>
+                            <Label Text="{Binding .}"></Label>
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>-->
+            <ListView.FooterTemplate>
+                <DataTemplate>
+                    <Grid Padding="10">
+                        <Label Text="End of list" TextColor="Blue">
+                        </Label>
+                    </Grid>
+                </DataTemplate>
+            </ListView.FooterTemplate>
+       
+        </ListView>
+       
+    </StackLayout>
+</ContentPage>

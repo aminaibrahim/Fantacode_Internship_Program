@@ -1,0 +1,12 @@
+C:\Users\user\Documents\GitHub\fantacodeintern\DemoApp\DemoApp\DemoApp\bin\Debug\netstandard2.0\DemoApp.deps.json
+C:\Users\user\Documents\GitHub\fantacodeintern\DemoApp\DemoApp\DemoApp\bin\Debug\netstandard2.0\DemoApp.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\DemoApp\DemoApp\DemoApp\bin\Debug\netstandard2.0\DemoApp.pdb
+C:\Users\user\Documents\GitHub\fantacodeintern\DemoApp\DemoApp\DemoApp\obj\Debug\netstandard2.0\DemoApp.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\fantacodeintern\DemoApp\DemoApp\DemoApp\obj\Debug\netstandard2.0\DemoApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\fantacodeintern\DemoApp\DemoApp\DemoApp\obj\Debug\netstandard2.0\DemoApp.App.xaml.g.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\DemoApp\DemoApp\DemoApp\obj\Debug\netstandard2.0\DemoApp.MainPage.xaml.g.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\DemoApp\DemoApp\DemoApp\obj\Debug\netstandard2.0\DemoApp.Page1.xaml.g.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\DemoApp\DemoApp\DemoApp\obj\Debug\netstandard2.0\DemoApp.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\fantacodeintern\DemoApp\DemoApp\DemoApp\obj\Debug\netstandard2.0\DemoApp.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\DemoApp\DemoApp\DemoApp\obj\Debug\netstandard2.0\DemoApp.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\DemoApp\DemoApp\DemoApp\obj\Debug\netstandard2.0\DemoApp.pdb

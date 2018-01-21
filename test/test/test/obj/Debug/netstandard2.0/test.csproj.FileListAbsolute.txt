@@ -1,0 +1,11 @@
+C:\Users\user\Documents\GitHub\fantacodeintern\test\test\test\bin\Debug\netstandard2.0\test.deps.json
+C:\Users\user\Documents\GitHub\fantacodeintern\test\test\test\bin\Debug\netstandard2.0\test.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\test\test\test\bin\Debug\netstandard2.0\test.pdb
+C:\Users\user\Documents\GitHub\fantacodeintern\test\test\test\obj\Debug\netstandard2.0\test.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\fantacodeintern\test\test\test\obj\Debug\netstandard2.0\test.App.xaml.g.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\test\test\test\obj\Debug\netstandard2.0\test.MainPage.xaml.g.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\test\test\test\obj\Debug\netstandard2.0\test.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\fantacodeintern\test\test\test\obj\Debug\netstandard2.0\test.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\test\test\test\obj\Debug\netstandard2.0\test.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\test\test\test\obj\Debug\netstandard2.0\test.pdb
+C:\Users\user\Documents\GitHub\fantacodeintern\test\test\test\obj\Debug\netstandard2.0\test.csprojResolveAssemblyReference.cache

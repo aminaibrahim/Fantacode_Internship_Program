@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\Calinfo\Calinfo\Calinfo\bin\Debug\netstandard2.0\Calinfo.deps.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\Calinfo\Calinfo\Calinfo\bin\Debug\netstandard2.0\Calinfo.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Calinfo\Calinfo\Calinfo\bin\Debug\netstandard2.0\Calinfo.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Calinfo\Calinfo\Calinfo\obj\Debug\netstandard2.0\Calinfo.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Calinfo\Calinfo\Calinfo\obj\Debug\netstandard2.0\Calinfo.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Calinfo\Calinfo\Calinfo\obj\Debug\netstandard2.0\Calinfo.App.xaml.g.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\Calinfo\Calinfo\Calinfo\obj\Debug\netstandard2.0\Calinfo.MainPage.xaml.g.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\Calinfo\Calinfo\Calinfo\obj\Debug\netstandard2.0\Calinfo.MasterPage.xaml.g.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\Calinfo\Calinfo\Calinfo\obj\Debug\netstandard2.0\Calinfo.Page2.xaml.g.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\Calinfo\Calinfo\Calinfo\obj\Debug\netstandard2.0\Calinfo.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Calinfo\Calinfo\Calinfo\obj\Debug\netstandard2.0\Calinfo.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\Calinfo\Calinfo\Calinfo\obj\Debug\netstandard2.0\Calinfo.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\Calinfo\Calinfo\Calinfo\obj\Debug\netstandard2.0\Calinfo.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Calinfo\Calinfo\Calinfo\obj\Debug\netstandard2.0\Calinfo.LoginPage.xaml.g.cs

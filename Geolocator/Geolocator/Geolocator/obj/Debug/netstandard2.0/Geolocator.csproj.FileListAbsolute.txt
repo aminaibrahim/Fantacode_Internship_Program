@@ -1,0 +1,11 @@
+C:\Users\user\Documents\GitHub\fantacodeintern\Geolocator\Geolocator\Geolocator\bin\Debug\netstandard2.0\Geolocator.deps.json
+C:\Users\user\Documents\GitHub\fantacodeintern\Geolocator\Geolocator\Geolocator\bin\Debug\netstandard2.0\Geolocator.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\Geolocator\Geolocator\Geolocator\obj\Debug\netstandard2.0\Geolocator.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\fantacodeintern\Geolocator\Geolocator\Geolocator\obj\Debug\netstandard2.0\Geolocator.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\fantacodeintern\Geolocator\Geolocator\Geolocator\obj\Debug\netstandard2.0\Geolocator.App.xaml.g.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\Geolocator\Geolocator\Geolocator\obj\Debug\netstandard2.0\Geolocator.MainPage.xaml.g.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\Geolocator\Geolocator\Geolocator\obj\Debug\netstandard2.0\Geolocator.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\fantacodeintern\Geolocator\Geolocator\Geolocator\obj\Debug\netstandard2.0\Geolocator.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\Geolocator\Geolocator\Geolocator\bin\Debug\netstandard2.0\Geolocator.pdb
+C:\Users\user\Documents\GitHub\fantacodeintern\Geolocator\Geolocator\Geolocator\obj\Debug\netstandard2.0\Geolocator.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\Geolocator\Geolocator\Geolocator\obj\Debug\netstandard2.0\Geolocator.pdb

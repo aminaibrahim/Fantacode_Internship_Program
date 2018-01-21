@@ -1,0 +1,12 @@
+C:\Users\user\Documents\GitHub\fantacodeintern\MyWeather\MyWeather\MyWeather\bin\Debug\netstandard2.0\MyWeather.deps.json
+C:\Users\user\Documents\GitHub\fantacodeintern\MyWeather\MyWeather\MyWeather\bin\Debug\netstandard2.0\MyWeather.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\MyWeather\MyWeather\MyWeather\obj\Debug\netstandard2.0\MyWeather.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\fantacodeintern\MyWeather\MyWeather\MyWeather\obj\Debug\netstandard2.0\MyWeather.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\fantacodeintern\MyWeather\MyWeather\MyWeather\obj\Debug\netstandard2.0\MyWeather.App.xaml.g.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\MyWeather\MyWeather\MyWeather\obj\Debug\netstandard2.0\MyWeather.MainPage.xaml.g.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\MyWeather\MyWeather\MyWeather\obj\Debug\netstandard2.0\MyWeather.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\fantacodeintern\MyWeather\MyWeather\MyWeather\obj\Debug\netstandard2.0\MyWeather.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\MyWeather\MyWeather\MyWeather\obj\Debug\netstandard2.0\MyWeather.Views.ViewPage.xaml.g.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\MyWeather\MyWeather\MyWeather\bin\Debug\netstandard2.0\MyWeather.pdb
+C:\Users\user\Documents\GitHub\fantacodeintern\MyWeather\MyWeather\MyWeather\obj\Debug\netstandard2.0\MyWeather.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\MyWeather\MyWeather\MyWeather\obj\Debug\netstandard2.0\MyWeather.pdb

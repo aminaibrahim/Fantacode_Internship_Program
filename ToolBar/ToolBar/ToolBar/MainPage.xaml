@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ToolBar"
+             x:Class="ToolBar.MainPage"
+             Title="MainPage">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Name="MenuItem1" Order="Primary" Clicked="first"  Text="Item 0" Priority="1" />
+        <ToolbarItem Name="MenuItem2" Clicked="ButtonClicked" Order="Primary"  Text="Item 1" Priority="0"/>
+    </ContentPage.ToolbarItems>
+    <Label Text=" hello world"></Label>
+    <Label x:Name="MainLabel"></Label>
+    <StackLayout Padding="60">
+    <Label x:Name="Label"></Label>
+    </StackLayout>
+</ContentPage>

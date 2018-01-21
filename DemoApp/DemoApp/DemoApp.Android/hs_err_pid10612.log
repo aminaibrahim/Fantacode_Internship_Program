@@ -1,0 +1,117 @@
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (malloc) failed to allocate 480104 bytes for AllocateHeap
+# Possible reasons:
+#   The system is out of physical RAM or swap space
+#   In 32 bit mode, the process size limit was hit
+# Possible solutions:
+#   Reduce memory load on the system
+#   Increase physical memory or swap space
+#   Check if swap backing store is full
+#   Use 64 bit Java on a 64 bit OS
+#   Decrease Java heap size (-Xmx/-Xms)
+#   Decrease number of Java threads
+#   Decrease Java thread stack sizes (-Xss)
+#   Set larger code cache with -XX:ReservedCodeCacheSize=
+# This output file may be truncated or incomplete.
+#
+#  Out of Memory Error (memory/allocation.inline.hpp:61), pid=10612, tid=0x0000000000002620
+#
+# JRE version:  (8.0_131-b11) (build )
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (25.131-b11 mixed mode windows-amd64 compressed oops)
+# Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x0000000002cce000):  JavaThread "Unknown thread" [_thread_in_vm, id=9760, stack(0x0000000002cd0000,0x0000000002dd0000)]
+
+Stack: [0x0000000002cd0000,0x0000000002dd0000]
+[error occurred during error reporting (printing stack bounds), id 0xc0000005]
+
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+
+Other Threads:
+
+=>0x0000000002cce000 (exited) JavaThread "Unknown thread" [_thread_in_vm, id=9760, stack(0x0000000002cd0000,0x0000000002dd0000)]
+
+VM state:not at safepoint (not fully initialized)
+
+VM Mutex/Monitor currently owned by a thread: None
+
+GC Heap History (0 events):
+No events
+
+Deoptimization events (0 events):
+No events
+
+Internal exceptions (0 events):
+No events
+
+Events (0 events):
+No events
+
+
+Dynamic libraries:
+0x00007ff7452f0000 - 0x00007ff7452f7000 	C:\Program Files\Java\jdk1.8.0_131\bin\javac.exe
+0x00007ff908970000 - 0x00007ff908b32000 	C:\Windows\SYSTEM32\ntdll.dll
+0x00007ff906170000 - 0x00007ff90621d000 	C:\Windows\system32\KERNEL32.DLL
+0x00007ff905bc0000 - 0x00007ff905d9d000 	C:\Windows\system32\KERNELBASE.dll
+0x000000005d820000 - 0x000000005d8f2000 	C:\Program Files\Java\jdk1.8.0_131\bin\MSVCR100.dll
+0x000000005d7f0000 - 0x000000005d81f000 	C:\Program Files\Java\jdk1.8.0_131\bin\jli.dll
+0x00007ff9084e0000 - 0x00007ff908586000 	C:\Windows\system32\ADVAPI32.dll
+0x00007ff908440000 - 0x00007ff9084dd000 	C:\Windows\system32\msvcrt.dll
+0x00007ff908380000 - 0x00007ff9083db000 	C:\Windows\system32\sechost.dll
+0x00007ff907760000 - 0x00007ff907886000 	C:\Windows\system32\RPCRT4.dll
+0x00007ff9080d0000 - 0x00007ff90821e000 	C:\Windows\system32\USER32.dll
+0x00007ff907de0000 - 0x00007ff907f63000 	C:\Windows\system32\GDI32.dll
+0x00007ff8f7300000 - 0x00007ff8f7574000 	C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.10240.17184_none_f41d7a705752bce6\COMCTL32.dll
+0x00007ff908590000 - 0x00007ff9085c6000 	C:\Windows\system32\IMM32.DLL
+0x00007ff907f70000 - 0x00007ff9080cc000 	C:\Windows\system32\MSCTF.dll
+0x000000005d710000 - 0x000000005d7e2000 	C:\Program Files\Java\jdk1.8.0_131\jre\bin\msvcr100.dll
+0x000000005ce70000 - 0x000000005d70c000 	C:\Program Files\Java\jdk1.8.0_131\jre\bin\server\jvm.dll
+0x00007ff908370000 - 0x00007ff908378000 	C:\Windows\system32\PSAPI.DLL
+0x00007ff8fa890000 - 0x00007ff8fa899000 	C:\Windows\SYSTEM32\WSOCK32.dll
+0x00007ff901bb0000 - 0x00007ff901bd3000 	C:\Windows\SYSTEM32\WINMM.dll
+0x00007ff908650000 - 0x00007ff9086b9000 	C:\Windows\system32\WS2_32.dll
+0x00007ff902be0000 - 0x00007ff902bea000 	C:\Windows\SYSTEM32\VERSION.dll
+0x00007ff906220000 - 0x00007ff906228000 	C:\Windows\system32\NSI.dll
+0x0000000002af0000 - 0x0000000002b1c000 	C:\Windows\SYSTEM32\WINMMBASE.dll
+0x00007ff905ac0000 - 0x00007ff905b04000 	C:\Windows\system32\cfgmgr32.dll
+0x00007ff903d10000 - 0x00007ff903d37000 	C:\Windows\SYSTEM32\DEVOBJ.dll
+0x000000005ce60000 - 0x000000005ce6f000 	C:\Program Files\Java\jdk1.8.0_131\jre\bin\verify.dll
+0x000000005ce30000 - 0x000000005ce59000 	C:\Program Files\Java\jdk1.8.0_131\jre\bin\java.dll
+0x000000005ce10000 - 0x000000005ce26000 	C:\Program Files\Java\jdk1.8.0_131\jre\bin\zip.dll
+
+VM Arguments:
+jvm_args: -Dapplication.home=C:\Program Files\Java\jdk1.8.0_131 -Xms8m -Dfile.encoding=UTF8 
+java_command: com.sun.tools.javac.Main -d obj\Debug\android\bin\classes -classpath C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\ReferenceAssemblies\Microsoft\Framework\MonoAndroid\v7.1\mono.android.jar;obj\Debug\lp\1\jl\formsviewgroup.jar;obj\Debug\lp\10\jl\bin\classes.jar;obj\Debug\lp\11\jl\bin\classes.jar;obj\Debug\lp\12\jl\bin\classes.jar;obj\Debug\lp\13\jl\bin\classes.jar;obj\Debug\lp\14\jl\bin\classes.jar;obj\Debug\lp\15\jl\bin\classes.jar;obj\Debug\lp\16\jl\bin\classes.jar;obj\Debug\lp\17\jl\bin\classes.jar;obj\Debug\lp\18\jl\bin\classes.jar;obj\Debug\lp\3\jl\bin\classes.jar;obj\Debug\lp\5\jl\bin\classes.jar;obj\Debug\lp\6\jl\bin\classes.jar;obj\Debug\lp\7\jl\bin\classes.jar;obj\Debug\lp\8\jl\bin\classes.jar;obj\Debug\lp\9\jl\bin\classes.jar;obj\Debug\lp\4\jl\support-annotations.jar -bootclasspath C:\Program Files (x86)\Android\android-sdk\platforms\android-25\android.jar -encoding UTF-8 @C:\Users\user\AppData\Local\Temp\tmpFC09.tmp
+java_class_path (initial): C:\Program Files\Java\jdk1.8.0_131/lib/tools.jar;C:\Program Files\Java\jdk1.8.0_131/classes
+Launcher Type: SUN_STANDARD
+
+Environment Variables:
+PATH=C:\Program Files\Java\jdk1.8.0_131\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Users\user\AppData\Local\Programs\Python\Python36-32;C:\Users\user\AppData\Local\Programs\Python\Python36-32\Scripts;C:\Users\user\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\MiKTeX 2.9\miktex\bin\;C:\Program Files\dotnet\;;C:\Program Files\Microsoft VS Code\bin;D:\Program Files\Microsoft VS Code\bin
+USERNAME=user
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+
+
+
+---------------  S Y S T E M  ---------------
+
+OS: Windows 10.0 , 64 bit Build 10240 (10.0.10240.17113)
+
+CPU:total 4 (initial active 4) (2 cores per cpu, 2 threads per core) family 6 model 60 stepping 3, cmov, cx8, fxsr, mmx, sse, sse2, sse3, ssse3, sse4.1, sse4.2, popcnt, avx, avx2, aes, clmul, erms, lzcnt, ht, tsc, tscinvbit, bmi1, bmi2
+
+Memory: 4k page, physical 4104164k(305056k free), swap 5359388k(5180k free)
+
+vm_info: Java HotSpot(TM) 64-Bit Server VM (25.131-b11) for windows-amd64 JRE (1.8.0_131-b11), built on Mar 15 2017 01:23:53 by "java_re" with MS VC++ 10.0 (VS2010)
+
+time: Sat Jan 13 22:51:03 2018
+elapsed time: 0 seconds (0d 0h 0m 0s)
+

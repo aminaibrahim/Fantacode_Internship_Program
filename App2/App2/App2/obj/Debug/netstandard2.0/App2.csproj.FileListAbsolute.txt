@@ -1,0 +1,11 @@
+C:\Users\user\Documents\GitHub\fantacodeintern\App2\App2\App2\bin\Debug\netstandard2.0\App2.deps.json
+C:\Users\user\Documents\GitHub\fantacodeintern\App2\App2\App2\bin\Debug\netstandard2.0\App2.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\App2\App2\App2\bin\Debug\netstandard2.0\App2.pdb
+C:\Users\user\Documents\GitHub\fantacodeintern\App2\App2\App2\obj\Debug\netstandard2.0\App2.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\fantacodeintern\App2\App2\App2\obj\Debug\netstandard2.0\App2.App.xaml.g.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\App2\App2\App2\obj\Debug\netstandard2.0\App2.Views.MainPage.xaml.g.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\App2\App2\App2\obj\Debug\netstandard2.0\App2.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\fantacodeintern\App2\App2\App2\obj\Debug\netstandard2.0\App2.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\App2\App2\App2\obj\Debug\netstandard2.0\App2.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\App2\App2\App2\obj\Debug\netstandard2.0\App2.pdb
+C:\Users\user\Documents\GitHub\fantacodeintern\App2\App2\App2\obj\Debug\netstandard2.0\App2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyWeather.Views.ViewPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry Text="{Binding City}"/>
+            <Button Text="Search Weather" Command="{Binding SearchButton}"/>
+            <Label Text="{Binding Temp}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

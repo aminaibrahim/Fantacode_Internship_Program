@@ -24,7 +24,7 @@
                     <Grid.GestureRecognizers>
                         <TapGestureRecognizer Tapped="Tap"/>
                     </Grid.GestureRecognizers>
-                    <Button Clicked="Button1" Text="Navigate"></Button>
+                    <Button Margin="120" Clicked="Button1" Text="Navigate"></Button>
                 </Grid>
 
 

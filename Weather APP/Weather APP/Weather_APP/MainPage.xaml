@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Weather_APP"
+             x:Class="Weather_APP.MainPage">
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical">
+            <Label Text=" Zonal Code"/>
+            <Entry Text="{Binding Zonal}"></Entry>
+            <Label Text="Temperature"/>
+            <Entry Text="{Binding Temp}"/>
+            <Button Clicked="Button_Clicked"   Text="search"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

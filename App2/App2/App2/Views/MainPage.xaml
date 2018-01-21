@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:App2"
+             x:Class="App2.MainPage">
+    <StackLayout>
+        <Label Text="Task To Do:" ></Label>
+        <Entry Text="{Binding task}"></Entry>
+        <Label Text="Notes:"></Label>
+        <Entry Text="{Binding description}"></Entry>
+        <Label Text="Done:"></Label>
+        <Switch  IsToggled="{Binding done, Mode=TwoWay}" HorizontalOptions="Center" ></Switch>
+        
+        <StackLayout Orientation="Horizontal">
+            <Button Text="Add" Command="{Binding AddButton}"></Button>
+            <Button Text="View" Command="{Binding ViewButton}"></Button>
+            <Button Text=" Delete"  Command="{Binding DeleteButton}"></Button>
+            <Button Text="Update"  Command="{Binding UpdateButton}"></Button>
+        </StackLayout>
+        <Button Text="Done" Command="{Binding DoneButton}"></Button>
+        <Entry  Text="{Binding todoId}"></Entry>
+        <ListView HasUnevenRows="True" ItemsSource="{Binding List}" SelectedItem="{Binding Selected, Mode=TwoWay}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Vertical" Padding="30">
+                            <Grid>
+
+                                <StackLayout Orientation="Horizontal">
+
+                                    <Label Text="{Binding todoId, Mode=TwoWay}" />
+
+                                    <Label Text="{Binding task, Mode=TwoWay}"/>
+                                    <Label Text="{Binding description,Mode=TwoWay}"/>
+                                    <Label Text="{Binding date, Mode=TwoWay}"/>
+
+                                    <Label Text="{Binding  done, Mode=TwoWay }"/>
+                                </StackLayout>
+                            </Grid>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

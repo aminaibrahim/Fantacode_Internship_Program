@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                  xmlns:local="clr-namespace:Calinfo"
+             x:Class="Calinfo.MasterPage">
+
+    <MasterDetailPage.Master>
+        <ContentPage Title="Master page">
+            <StackLayout Orientation="Vertical">
+                <Button 
+                    Text="Resturants" Clicked="ResturantsButton">
+                </Button>
+                <Button
+                    Text="Labour" Clicked="LabourButton">
+                </Button>
+                <Button
+                    Text="Transport" Clicked="TransportButton">
+                </Button>
+                <Button
+                    Text="Health" Clicked="HealthButton">
+                </Button>
+                <Button
+                    Text="Supermarket" Clicked="SupermarketButton">
+                </Button>
+                <Button
+                    Text="Education" Clicked="EducationButton">
+                </Button>
+                <Button
+                    Text="Workshop" Clicked="WorkshopButton">
+                </Button>
+                <Button
+                    Text="Services" Clicked="ServicesButton">
+                </Button>
+                <Button
+                    Text="Government" Clicked="GovernmentButton">
+                </Button>
+            </StackLayout>
+        </ContentPage>
+        </MasterDetailPage.Master>
+    <MasterDetailPage.Detail>
+        <local:MainPage></local:MainPage>
+    </MasterDetailPage.Detail>
+    
+</MasterDetailPage>

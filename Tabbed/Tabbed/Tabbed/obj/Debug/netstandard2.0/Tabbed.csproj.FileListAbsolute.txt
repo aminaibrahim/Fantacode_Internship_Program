@@ -1,0 +1,13 @@
+C:\Users\user\Documents\GitHub\fantacodeintern\Tabbed\Tabbed\Tabbed\bin\Debug\netstandard2.0\Tabbed.deps.json
+C:\Users\user\Documents\GitHub\fantacodeintern\Tabbed\Tabbed\Tabbed\bin\Debug\netstandard2.0\Tabbed.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\Tabbed\Tabbed\Tabbed\bin\Debug\netstandard2.0\Tabbed.pdb
+C:\Users\user\Documents\GitHub\fantacodeintern\Tabbed\Tabbed\Tabbed\obj\Debug\netstandard2.0\Tabbed.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\fantacodeintern\Tabbed\Tabbed\Tabbed\obj\Debug\netstandard2.0\Tabbed.App.xaml.g.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\Tabbed\Tabbed\Tabbed\obj\Debug\netstandard2.0\Tabbed.MainPage.xaml.g.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\Tabbed\Tabbed\Tabbed\obj\Debug\netstandard2.0\Tabbed.NavigatePage.xaml.g.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\Tabbed\Tabbed\Tabbed\obj\Debug\netstandard2.0\Tabbed.Page2.xaml.g.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\Tabbed\Tabbed\Tabbed\obj\Debug\netstandard2.0\Tabbed.TabbedPage1.xaml.g.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\Tabbed\Tabbed\Tabbed\obj\Debug\netstandard2.0\Tabbed.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\fantacodeintern\Tabbed\Tabbed\Tabbed\obj\Debug\netstandard2.0\Tabbed.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\Tabbed\Tabbed\Tabbed\obj\Debug\netstandard2.0\Tabbed.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\Tabbed\Tabbed\Tabbed\obj\Debug\netstandard2.0\Tabbed.pdb

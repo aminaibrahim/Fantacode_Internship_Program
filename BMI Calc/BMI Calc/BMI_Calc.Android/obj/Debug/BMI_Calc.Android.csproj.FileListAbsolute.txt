@@ -51,3 +51,84 @@ c:\users\user\documents\visual studio 2017\Projects\BMI Calc\BMI Calc\BMI_Calc.A
 c:\users\user\documents\visual studio 2017\Projects\BMI Calc\BMI Calc\BMI_Calc.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 c:\users\user\documents\visual studio 2017\Projects\BMI Calc\BMI Calc\BMI_Calc.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 c:\users\user\documents\visual studio 2017\Projects\BMI Calc\BMI Calc\BMI_Calc.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\BMI_Calc.Android.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\BMI_Calc.Android.pdb
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\com.companyname.BMI_Calc.apk
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\com.companyname.BMI_Calc-Signed.apk
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\obj\Debug\BMI_Calc.Android.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\obj\Debug\BMI_Calc.Android.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\obj\Debug\BMI_Calc.Droid.MainPage.xaml.g.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\obj\Debug\BMI_Calc.Droid.App.xaml.g.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\obj\Debug\BMI_Calc.Droid.Page1.xaml.g.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\obj\Debug\BMI_Calc.Android.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\obj\Debug\BMI_Calc.Android.pdb
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\obj\Debug\android\bin\com.companyname.BMI_Calc.apk
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\obj\Debug\res\drawable\icon.png
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\obj\Debug\res\values\styles.xml
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\obj\Debug\R.cs.flag
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\obj\Debug\uploadflags.txt
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\BMI_Calc.Android.dll.mdb
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\obj\Debug\android\assets\BMI_Calc.Android.dll.mdb
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\user\Documents\GitHub\fantacodeintern\BMI Calc\BMI Calc\BMI_Calc.Android\bin\Debug\BMI_Calc.Android.dll
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Xml.Linq.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\BMI_Calc.Android.dll.mdb
+obj\Debug\linksrc\FormsViewGroup.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb

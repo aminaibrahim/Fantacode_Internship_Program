@@ -1,0 +1,12 @@
+C:\Users\user\Documents\GitHub\fantacodeintern\ToolBar\ToolBar\ToolBar\obj\Debug\netstandard2.0\ToolBar.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\fantacodeintern\ToolBar\ToolBar\ToolBar\obj\Debug\netstandard2.0\ToolBar.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\fantacodeintern\ToolBar\ToolBar\ToolBar\obj\Debug\netstandard2.0\ToolBar.App.xaml.g.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\ToolBar\ToolBar\ToolBar\obj\Debug\netstandard2.0\ToolBar.MainPage.xaml.g.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\ToolBar\ToolBar\ToolBar\obj\Debug\netstandard2.0\ToolBar.Page1.xaml.g.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\ToolBar\ToolBar\ToolBar\obj\Debug\netstandard2.0\ToolBar.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\fantacodeintern\ToolBar\ToolBar\ToolBar\obj\Debug\netstandard2.0\ToolBar.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\ToolBar\ToolBar\ToolBar\bin\Debug\netstandard2.0\ToolBar.deps.json
+C:\Users\user\Documents\GitHub\fantacodeintern\ToolBar\ToolBar\ToolBar\bin\Debug\netstandard2.0\ToolBar.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\ToolBar\ToolBar\ToolBar\bin\Debug\netstandard2.0\ToolBar.pdb
+C:\Users\user\Documents\GitHub\fantacodeintern\ToolBar\ToolBar\ToolBar\obj\Debug\netstandard2.0\ToolBar.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\ToolBar\ToolBar\ToolBar\obj\Debug\netstandard2.0\ToolBar.pdb

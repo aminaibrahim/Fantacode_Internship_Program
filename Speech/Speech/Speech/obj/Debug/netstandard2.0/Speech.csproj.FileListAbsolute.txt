@@ -1,0 +1,11 @@
+C:\Users\user\Documents\GitHub\fantacodeintern\Speech\Speech\Speech\bin\Debug\netstandard2.0\Speech.deps.json
+C:\Users\user\Documents\GitHub\fantacodeintern\Speech\Speech\Speech\bin\Debug\netstandard2.0\Speech.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\Speech\Speech\Speech\obj\Debug\netstandard2.0\Speech.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\fantacodeintern\Speech\Speech\Speech\obj\Debug\netstandard2.0\Speech.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\fantacodeintern\Speech\Speech\Speech\obj\Debug\netstandard2.0\Speech.App.xaml.g.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\Speech\Speech\Speech\obj\Debug\netstandard2.0\Speech.MainPage.xaml.g.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\Speech\Speech\Speech\obj\Debug\netstandard2.0\Speech.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\fantacodeintern\Speech\Speech\Speech\obj\Debug\netstandard2.0\Speech.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\fantacodeintern\Speech\Speech\Speech\bin\Debug\netstandard2.0\Speech.pdb
+C:\Users\user\Documents\GitHub\fantacodeintern\Speech\Speech\Speech\obj\Debug\netstandard2.0\Speech.dll
+C:\Users\user\Documents\GitHub\fantacodeintern\Speech\Speech\Speech\obj\Debug\netstandard2.0\Speech.pdb

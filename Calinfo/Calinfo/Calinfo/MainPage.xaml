@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Calinfo"
+             x:Class="Calinfo.MainPage">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Name="MenuItem1" Order="Primary" Clicked="LoginIcon" Icon= "login.png"  Priority="0" />
+        <!--<Image x:Name="button" Source="butto.png"
+              HeightRequest="100" WidthRequest="50">
+            <Image.GestureRecognizers>
+                <TapGestureRecognizer Tapped="Image_Click"/>
+            </Image.GestureRecognizers>
+        </Image>-->
+
+    </ContentPage.ToolbarItems>
+    <StackLayout Spacing="0">
+        <Grid RowSpacing="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Image x:Name="SearchImage" Source="bg.jpg" HorizontalOptions="FillAndExpand"
+                   Aspect="AspectFill" Grid.Row="0"></Image>
+            <StackLayout  VerticalOptions="Center"  Grid.Row="0">
+                <Label Text="Find Your Best Search Here..." TextColor="White" FontSize="Large" ></Label>
+                <StackLayout Orientation="Horizontal" Margin="10">
+                <SearchBar x:Name="SearchBar" BackgroundColor="AntiqueWhite"></SearchBar>
+                <Button HorizontalOptions="End" Text="Search" Clicked="Search_Button"></Button>
+                </StackLayout>
+            </StackLayout>
+        </Grid>
+    </StackLayout>
+</ContentPage>

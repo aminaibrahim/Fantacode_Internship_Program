@@ -20,14 +20,10 @@ namespace WebServices.Controllers
         }
 
         // GET: EmployeesMVC
-        public IEnumerable<string> Get()
+        public async Task<IActionResult> Index()
         {
-            return new string[] { "value1", "value2" };
+            return View(await _context.Employee.ToListAsync());
         }
-        //public async Task<IActionResult> Index()
-        //{
-        //    return View(await _context.Employee.ToListAsync());
-        //}
 
         // GET: EmployeesMVC/Details/5
         public async Task<IActionResult> Details(int? id)

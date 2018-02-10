@@ -1,24 +1,21 @@
-﻿using System;
+﻿using Plugin.RestClient;
+using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 using WebServicesDemo.Models;
 
 namespace WebServicesDemo.Services
 {
     class EmployeeServices
     {
-        public List<Employee> GetEmployee()
+        public async Task<List<Employee>> GetEmployeeAsync()
 
         {
-            var list = new List<Employee>
-            {
-                new Employee
-                {
-                   Name = "Anu",
-                   Department = "Marketing"
-                },
-            };
-            return list;
+            RestClient<Employee> restClient = new RestClient<Employee>();
+            
+            var employeesList = await restClient.GetAsync();
+            return employeesList;
         }
     }
 }

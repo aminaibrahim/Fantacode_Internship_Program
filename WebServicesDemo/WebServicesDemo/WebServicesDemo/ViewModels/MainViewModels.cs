@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
 using System.Text;
+using System.Threading.Tasks;
 using WebServicesDemo.Models;
 using WebServicesDemo.Services;
 
@@ -24,11 +25,17 @@ namespace WebServicesDemo.ViewModels
             }
         }
 
-        public MainViewModels()
+        public  MainViewModels()
+        {
+            InitialisedataAsync();
+        }
+        private async Task InitialisedataAsync()
         {
             var employeeServices = new EmployeeServices();
-            EmployeeList = employeeServices.GetEmployee();
-        }
+        EmployeeList = await employeeServices.GetEmployeeAsync();
+
+    }
+
 
         
          public event PropertyChangedEventHandler PropertyChanged;

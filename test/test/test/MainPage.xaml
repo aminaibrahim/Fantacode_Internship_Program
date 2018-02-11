@@ -4,6 +4,7 @@
              xmlns:local="clr-namespace:test"
              x:Class="test.MainPage">
 
-	<Entry VerticalOptions="Center" HorizontalOptions="Center" />
+    <Label Text="HELLO WORLD" TextColor="Red"></Label>
+    <Button Text="NAVIGATE" Clicked="OnClicked" ></Button>
    
 </ContentPage>

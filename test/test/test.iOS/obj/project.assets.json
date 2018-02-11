@@ -2499,11 +2499,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\fantacodeintern\\test\\test\\test.iOS\\test.iOS.csproj",
+      "projectUniqueName": "D:\\GitHub\\fantacodeintern\\test\\test\\test.iOS\\test.iOS.csproj",
       "projectName": "test.iOS",
-      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\fantacodeintern\\test\\test\\test.iOS\\test.iOS.csproj",
+      "projectPath": "D:\\GitHub\\fantacodeintern\\test\\test\\test.iOS\\test.iOS.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\fantacodeintern\\test\\test\\test.iOS\\obj\\",
+      "outputPath": "D:\\GitHub\\fantacodeintern\\test\\test\\test.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -2520,8 +2520,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\user\\Documents\\GitHub\\fantacodeintern\\test\\test\\test\\test.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\GitHub\\fantacodeintern\\test\\test\\test\\test.csproj"
+            "D:\\GitHub\\fantacodeintern\\test\\test\\test\\test.csproj": {
+              "projectPath": "D:\\GitHub\\fantacodeintern\\test\\test\\test\\test.csproj"
             }
           }
         }

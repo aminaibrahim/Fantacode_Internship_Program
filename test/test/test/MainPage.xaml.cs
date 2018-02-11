@@ -13,5 +13,9 @@ namespace test
 		{
 			InitializeComponent();
 		}
+        public async void OnClicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new page2());
+        }
 	}
 }

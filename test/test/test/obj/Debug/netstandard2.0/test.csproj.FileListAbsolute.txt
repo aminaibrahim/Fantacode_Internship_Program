@@ -9,3 +9,12 @@ C:\Users\user\Documents\GitHub\fantacodeintern\test\test\test\obj\Debug\netstand
 C:\Users\user\Documents\GitHub\fantacodeintern\test\test\test\obj\Debug\netstandard2.0\test.dll
 C:\Users\user\Documents\GitHub\fantacodeintern\test\test\test\obj\Debug\netstandard2.0\test.pdb
 C:\Users\user\Documents\GitHub\fantacodeintern\test\test\test\obj\Debug\netstandard2.0\test.csprojResolveAssemblyReference.cache
+D:\GitHub\fantacodeintern\test\test\test\obj\Debug\netstandard2.0\test.csprojResolveAssemblyReference.cache
+D:\GitHub\fantacodeintern\test\test\test\obj\Debug\netstandard2.0\test.csproj.CoreCompileInputs.cache
+D:\GitHub\fantacodeintern\test\test\test\obj\Debug\netstandard2.0\test.App.xaml.g.cs
+D:\GitHub\fantacodeintern\test\test\test\obj\Debug\netstandard2.0\test.MainPage.xaml.g.cs
+D:\GitHub\fantacodeintern\test\test\test\obj\Debug\netstandard2.0\test.Page2.xaml.g.cs
+D:\GitHub\fantacodeintern\test\test\test\obj\Debug\netstandard2.0\test.AssemblyInfoInputs.cache
+D:\GitHub\fantacodeintern\test\test\test\obj\Debug\netstandard2.0\test.AssemblyInfo.cs
+D:\GitHub\fantacodeintern\test\test\test\obj\Debug\netstandard2.0\test.dll
+D:\GitHub\fantacodeintern\test\test\test\obj\Debug\netstandard2.0\test.pdb

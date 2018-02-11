@@ -74,3 +74,6 @@ obj\Debug\linksrc\Mono.Data.Tds.pdb
 obj\Debug\linksrc\System.IO.Compression.pdb
 obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
 obj\Debug\linksrc\System.Web.Services.pdb
+D:\GitHub\fantacodeintern\test\test\test.Android\obj\Debug\test.Android.csprojResolveAssemblyReference.cache
+D:\GitHub\fantacodeintern\test\test\test.Android\obj\Debug\test.Android.dll
+D:\GitHub\fantacodeintern\test\test\test.Android\obj\Debug\test.Android.pdb

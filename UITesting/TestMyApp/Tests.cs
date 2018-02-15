@@ -31,18 +31,23 @@ namespace TestMyApp
             app.Screenshot("First screen.");
         }
         [Test]
-        public void Add_6_to_10()
+        [Category("ADD")]
+        [TestCase(6, 2, 8)]
+        [TestCase(6, 12, 18)]
+        public void Add_a_to_b(int a, int b, int c)
+           
         {
             //Arrange
-            app.EnterText("num1","12");
-            app.EnterText("num2", "12");
+            app.EnterText("num1",a.ToString());
+            app.EnterText("num2",b.ToString());
             //Act
             app.Tap("AddTap");
             //Assert
-            var appResult = app.Query("ResultId").First(result => result.Text == "24");
+            var appResult = app.Query("ResultId").First(result => result.Text == c.ToString());
             Assert.IsTrue(appResult != null, "label not displaying");
         }
         [Test]
+        [Category("MULTIPLY")]
         public void Mul_6_to_10()
         {
             //Arrange

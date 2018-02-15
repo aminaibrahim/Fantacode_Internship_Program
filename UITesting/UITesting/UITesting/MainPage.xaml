@@ -2,10 +2,38 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:UITesting"
-             x:Class="UITesting.MainPage">
-
-	<Label Text="Welcome to Xamarin.Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
-
+             x:Class="UITesting.MainPage"
+             BackgroundColor="PapayaWhip">
+    <StackLayout Orientation="Vertical">
+        
+        <Entry x:Name="First" 
+               Placeholder= "FIRST NUMBER" 
+               AutomationId="num1"
+               TextColor="Red"
+               FontSize="Medium"></Entry>
+        
+        <Entry x:Name="Second" 
+               AutomationId="num2"
+               Placeholder="SECOND NUMBER"
+               TextColor="Red" 
+               FontSize="Medium"></Entry>
+        
+        <Button Text="ADD" 
+                BackgroundColor="White"
+                AutomationId="AddTap"
+                TextColor="Blue" 
+                Clicked="AddButton_Clicked" 
+                FontSize="Medium"></Button>
+        <Button Text="MULTIPLY" 
+                BackgroundColor="White"
+                AutomationId="MulTap"
+                TextColor="Blue"
+                Clicked="MulButton_Clicked" 
+                FontSize="Medium"></Button>
+        
+        <Label x:Name="Result" 
+               TextColor="Violet"
+               AutomationId="ResultId"
+               FontSize="Large"></Label>
+    </StackLayout>
 </ContentPage>

@@ -1,3 +1,6 @@
 # fantacodeintern
 
-This repository is for publishing the tasks done as part of the intership program.
+                   This repository is for publishing the tasks done as part of the internship program.
+ <hr>                  
+# Task 1
+ 

@@ -9,7 +9,7 @@
  <hr> 
 
    
-## Module 1
+## Module 1 (
 - Introduction to C# language
    Reference:  https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949
 
@@ -63,4 +63,12 @@
  - Navigated from Main page to another page
  - Read data from user and Passed parameters between pages
 
+  <hr>
+  <hr>
   
+## Module 4 (27/11/2017) - (2/12/2017)
+
+ - List View - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=xqF4G2kGFHI
+ - ist View Item Template - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=xqF4G2kGFHI
+ - ListView Styling - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=N0e3fPisIw8
+ 

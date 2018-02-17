@@ -62,10 +62,16 @@ Features :
 ### Task :Two-page application which pass parameters from one page to other.
 
 
- - Diary - https://github.com/aminaibrahim/fantacodeintern/tree/master/Diary
-Features :
-  - Navigated from Main page to another page
-  - Read data from user and Passed parameters between pages
+
+- Diary - https://github.com/aminaibrahim/fantacodeintern/tree/master/Diary
+ Features :
+   - Navigated from Main page to another page
+   - Read data from user and Passed parameters between pages
+<br>
+<hr>
+<hr>
+   
+
 
    
 ## MODULE 4
@@ -117,17 +123,17 @@ Features :
 
  
 
-Alerts, Action Sheets, Menu - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=0wNJqKJMg_s https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=jwetxvCP1mo
+ - Alerts, Action Sheets, Menu - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=0wNJqKJMg_s                                                     https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=jwetxvCP1mo
 
-Slider - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=1O7IeHNrKI
+ - Slider - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=1O7IeHNrKI
 
-x:Reference - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=1_DnxuAlRq4
+ - x:Reference - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=1_DnxuAlRq4
 
-Task : Develop full-fledged offline apps.
+### Task : Develop full-fledged offline apps.
 
-Diary - https://github.com/aminaibrahim/fantacodeintern/tree/master/My%20Diary Features :
-
-Display Alerts
+- Diary - https://github.com/aminaibrahim/fantacodeintern/tree/master/My%20Diary
+Features :
+  - Display Alerts
 <hr>
 <hr>
 

@@ -18,7 +18,7 @@
   Queue Implementation -      https://github.com/aminaibrahim/fantacodeintern/tree/master/queue
 
 <hr>
-<br>
+<hr>
 
 ## Module 2
 

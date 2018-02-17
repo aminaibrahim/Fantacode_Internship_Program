@@ -1,6 +1,5 @@
 # FantaCode Solutions Internship Program
-<hr>
-<hr>
+
   This repository is for publishing the tasks done as part of the internship program at FantaCode Solutions LLP, Calicut.
 
 

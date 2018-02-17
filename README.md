@@ -21,7 +21,7 @@
 <hr>
 <br>
 
-## Module 1- Introduction to C# language
+## Module 2
 
 
  - Using GitHub for Source Control.

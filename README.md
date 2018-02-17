@@ -24,9 +24,9 @@
                                                                                          
 ### Date :(12/11/2017) - (18/11/2017)
 <br>
- - Using GitHub for Source Control.
- - Using Google to find what you are trying to achieve.
- - Identify major component of a Mobile Application.
+ - Using GitHub for Source Control.<br>
+ - Using Google to find what you are trying to achieve.<br>
+ - Identify major component of a Mobile Application.<br>
  
  Now Let's start building mobile apps:
 

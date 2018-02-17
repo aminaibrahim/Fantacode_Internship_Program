@@ -9,7 +9,7 @@
  <hr> 
 
    
-## Module 1         &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;      Date (
+## Module 1                                                                           &nbsp;Date (
 - Introduction to C# language
    Reference:  https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949
 

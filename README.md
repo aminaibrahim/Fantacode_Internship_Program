@@ -37,12 +37,12 @@ Now Let's start building mobile apps:
 
 ### Task : Develop a single page Android and iOS application based on Xamarin Forms.
 
-- BMI Calculator- https://github.com/aminaibrahim/fantacodeintern/tree/master/BMI%20Calc
+- BMI Calculator- https://github.com/aminaibrahim/fantacodeintern/tree/master/BMI%20Calc <br>
  Features :
    - Buttons, Labels and Entries to a page in the Xamarin Forms app
    - Changing background colour, text colour, padding, Button Text etc.
 
-- QR Scanning APP - https://github.com/aminaibrahim/fantacodeintern/tree/master/Scan
+- QR Scanning APP - https://github.com/aminaibrahim/fantacodeintern/tree/master/Scan <br>
   Features :
    - QR Scanning Plugin - ZXing. Net. Mobile 
    - Providing Camera permissions to app

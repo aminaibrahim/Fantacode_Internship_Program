@@ -63,7 +63,7 @@ Now Let's start building mobile apps:
 
 
 
-- Diary - https://github.com/aminaibrahim/fantacodeintern/tree/master/Diary
+- Diary - https://github.com/aminaibrahim/fantacodeintern/tree/master/Diary <br>
  Features :
    - Navigated from Main page to another page
    - Read data from user and Passed parameters between pages
@@ -87,7 +87,7 @@ Now Let's start building mobile apps:
 
 ### Task : Develop a multipage application with ListView and a detailed page. Preferably a simple To-Do app without any storage.
 
- - To Do List - https://github.com/aminaibrahim/fantacodeintern/tree/master/To-Do-List
+ - To Do List - https://github.com/aminaibrahim/fantacodeintern/tree/master/To-Do-List <br>
   Features :
   
    - ListView, ListView ItemTemplate and ListView Styling in Xamarin Forms.
@@ -109,7 +109,7 @@ Now Let's start building mobile apps:
 
 ### Task : Convert the To-Do app you created on Week 4 to MVVM pattern.
 
-- To Do List using MVVM- https://github.com/aminaibrahim/fantacodeintern/tree/master/DoList 
+- To Do List using MVVM- https://github.com/aminaibrahim/fantacodeintern/tree/master/DoList <br>
 Features :
    - Model View ViewModel concept
    - Binding Context
@@ -129,7 +129,7 @@ Features :
 
 ### Task : Develop full-fledged offline apps.
 
-- Diary - https://github.com/aminaibrahim/fantacodeintern/tree/master/My%20Diary
+- Diary - https://github.com/aminaibrahim/fantacodeintern/tree/master/My%20Diary <br>
 Features :
   - Display Alerts
 <hr>
@@ -152,7 +152,7 @@ Features :
 
 ### Task : Develop advanced apps
 
-- Weather app - https://github.com/aminaibrahim/fantacodeintern/tree/master/Weather 
+- Weather app - https://github.com/aminaibrahim/fantacodeintern/tree/master/Weather  <br>
 Features :
 
  

@@ -49,19 +49,21 @@ Features :
 <br>
 <hr>
 <hr>
-MODULE 3
+## MODULE 3
+### Date :(20/11/2017) - (25/11/2017)
 
-Date :(20/11/2017) - (25/11/2017)
 
-Navigation - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=vlLdF7zALy
-Passing Parameter to a Page - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=tlEn9ywoRGY
-Tabbed Page - i) https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=bT1JeVLsVig ii) https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=xqF4G2kGFHI
-Task : Two-page application which pass parameters from one page to other.
+ - Navigation - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=vlLdF7zALy
+ - Passing Parameter to a Page - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=tlEn9ywoRGY
+ - Tabbed Page - i) https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=bT1JeVLsVig
+                ii) https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=xqF4G2kGFHI
 
-Diary - https://github.com/aminaibrahim/fantacodeintern/tree/master/Diary
+### Task :Two-page application which pass parameters from one page to other.
+
+ - Diary - https://github.com/aminaibrahim/fantacodeintern/tree/master/Diary
 Features :
-Navigated from Main page to another page
-Read data from user and Passed parameters between pages
+  - Navigated from Main page to another page
+  - Read data from user and Passed parameters between pages
 
 ## MODULE 4
 Date :(27/11/2017) - (2/12/2017)

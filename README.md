@@ -10,17 +10,18 @@
  <hr> 
 
    
-## Module 1- Introduction to C# language
-
-C# for Absolute Beginner.
-Reference:  https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949
+## Module 1
+- Introduction to C# language
+   Reference:  https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949
 
 
 ### Task :  Make a Generic class and custom implementation of queue. So it can accept any type of object.
   Queue Implementation -      https://github.com/aminaibrahim/fantacodeintern/tree/master/queue
 <hr>
-<hr>   
-## Module 2
+<hr> 
+
+<br>
+## Module 1- Introduction to C# language
 
 
  - Using GitHub for Source Control.

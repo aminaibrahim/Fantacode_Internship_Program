@@ -5,7 +5,7 @@
 <hr>
    
 ## MODULE 1
-## Date: (04-11-2017) - (11/11/2017)
+### Date: (04-11-2017) - (11/11/2017)
 
 
 - Introduction to C# language 
@@ -40,14 +40,14 @@ Now Let's start building mobile apps:
 - BMI Calculator- https://github.com/aminaibrahim/fantacodeintern/tree/master/BMI%20Calc
 
 Features :
-  - Buttons, Labels and Entries to a page in the Xamarin Forms app
-  - Changing background colour, text colour, padding, Button Text etc.
+   - Buttons, Labels and Entries to a page in the Xamarin Forms app
+   - Changing background colour, text colour, padding, Button Text etc.
 
 - QR Scanning APP - https://github.com/aminaibrahim/fantacodeintern/tree/master/Scan
 
  Features :
-  - QR Scanning Plugin - ZXing. Net. Mobile 
-  - Providing Camera permissions to app
+   - QR Scanning Plugin - ZXing. Net. Mobile 
+   - Providing Camera permissions to app
 <br>
 <hr>
 <hr>

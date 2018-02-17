@@ -123,7 +123,7 @@ Features :
 
  
 
- - Alerts, Action Sheets, Menu - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=0wNJqKJMg_s                https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=jwetxvCP1mo
+ - Alerts, Action Sheets, Menu - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=0wNJqKJMg_s               <br> https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=jwetxvCP1mo
  - Slider - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=1O7IeHNrKI
  - x:Reference - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=1_DnxuAlRq4
 
@@ -152,7 +152,8 @@ Features :
 
 ### Task : Develop advanced apps
 
-- Weather app - https://github.com/aminaibrahim/fantacodeintern/tree/master/Weather Features :
+- Weather app - https://github.com/aminaibrahim/fantacodeintern/tree/master/Weather 
+Features :
 
  
 

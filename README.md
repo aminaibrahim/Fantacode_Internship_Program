@@ -49,7 +49,7 @@
 <hr>
 <hr>
 
-## Module 3 
+## Module 3 (20/11/2017) - (25/11/2017)
 
 - Navigation - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=vlLdF7zALy
 - Passing Parameter to a Page - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=tlEn9ywoRGY
@@ -66,7 +66,7 @@
   <hr>
   <hr>
   
-## Module 4                                                                                     Date:  (27/11/2017) - (2/12/2017)
+## Module 4 (27/11/2017) - (2/12/2017)
 
  - List View - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=xqF4G2kGFHI
  - ist View Item Template - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=xqF4G2kGFHI

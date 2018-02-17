@@ -17,10 +17,10 @@
 
 ### Task :  Make a Generic class and custom implementation of queue. So it can accept any type of object.
   Queue Implementation -      https://github.com/aminaibrahim/fantacodeintern/tree/master/queue
-<hr>
-<hr> 
 
+<hr>
 <br>
+
 ## Module 1- Introduction to C# language
 
 

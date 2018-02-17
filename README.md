@@ -8,10 +8,14 @@
 ## Date: (04-11-2017) - 
 
 
-- C# for Absolute Beginner.
-     Reference:  https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949
+
+- Introduction to C# language 
+        Reference: https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949
+
 
 ## Task : Make a Generic class and custom implementation of queue. So it can accept any type of object. 
+
+Queue Implementation - https://github.com/aminaibrahim/fantacodeintern/tree/master/queue
 <hr>
 <hr>
    

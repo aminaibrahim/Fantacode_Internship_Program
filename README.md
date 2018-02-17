@@ -85,7 +85,7 @@
    
    ## MODULE 5
                                                                                          
-### Date :(4/12/2017) - (2/12/2017)
+### Date :(4/12/2017) - (16/12/2017)
 
  - Xamarin Forms Styles - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=yaC0-C942wk
  - MVVM DataBinding - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=uEn9FlLL5wo
@@ -97,7 +97,27 @@
  - To Do List using MVVM- https://github.com/aminaibrahim/fantacodeintern/tree/master/DoList
    Features :     
    -  Model View ViewModel concept
-   - Binding concepts
+   - Binding Context
+   <br>
+   <hr>
+   <hr>
+   
+    
+   ## MODULE 6
+                                                                                         
+### Date :(18/12/2017) - (22/12/2017)
+
+- Alerts, Action Sheets, Menu - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=0wNJqKJMg_s
+                                 https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=jwetxvCP1mo
+- Slider - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=1O7IeHNrKI
+- x:Reference - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=1_DnxuAlRq4
+ 
+  ### Task : Develop full-fledged offline apps.
+
+   
+ - Diary - https://github.com/aminaibrahim/fantacodeintern/tree/master/My%20Diary
+   Features :     
+   -  Display Alerts
    <br>
    <hr>
    <hr>

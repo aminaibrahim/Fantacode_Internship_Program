@@ -9,7 +9,8 @@
 
 
 - Introduction to C# language 
-        Reference: https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949
+
+    Reference: https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949
 
 
 ### Task : Make a Generic class and custom implementation of queue. So it can accept any type of object. 
@@ -40,15 +41,15 @@ Now Let's start building mobile apps:
 
 Features :
 
- - Buttons, Labels and Entries to a page in the Xamarin Forms app
- - Changing background colour, text colour, padding, Button Text etc.
+  - Buttons, Labels and Entries to a page in the Xamarin Forms app
+  - Changing background colour, text colour, padding, Button Text etc.
 
 - QR Scanning APP - https://github.com/aminaibrahim/fantacodeintern/tree/master/Scan
 
-Features :
+ Features :
 
- - QR Scanning Plugin - ZXing. Net. Mobile 
- - Providing Camera permissions to app
+  - QR Scanning Plugin - ZXing. Net. Mobile 
+  - Providing Camera permissions to app
 <br>
 <hr>
 <hr>

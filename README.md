@@ -55,16 +55,15 @@
  - Tabbed Page - i) https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=bT1JeVLsVig
                 ii) https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=xqF4G2kGFHI
   ### Task :  Two-page application which pass parameters from one page to other.
-          
-  Diary - https://github.com/aminaibrahim/fantacodeintern/tree/master/Diary  
   
-  Features:
   
- - Navigated from Main page to another page
- - Read data from user and Passed parameters between pages
+ -  Diary - https://github.com/aminaibrahim/fantacodeintern/tree/master/Diary  
+   Features :     
+   - Navigated from Main page to another page
+   - Read data from user and Passed parameters between pages
+  <br>
   <hr>
   <hr>
-  
 ## MODULE 4
                                                                                          
 ### Date :(27/11/2017) - (2/12/2017)
@@ -76,10 +75,10 @@
  
   ### Task :  Develop a multipage application with ListView and a detailed page. Preferably a simple To-Do app without any storage.
 
-
+   
  - To Do List - https://github.com/aminaibrahim/fantacodeintern/tree/master/To-Do-List
- 
-Features:
-
- - ListView, ListView ItemTemplate and ListView Styling in Xamarin Forms.
-          
+   Features :     
+   -  ListView, ListView ItemTemplate and ListView Styling in Xamarin Forms.
+   <br>
+   <hr>
+   <hr>

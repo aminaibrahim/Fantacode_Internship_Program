@@ -12,18 +12,18 @@
 ## MODULE 1                                                                             
 ### DATE :(20/11/2017) - (25/11/2017)
 <br>
-- Introduction to C# language
+- Introduction to C# language <br>
    Reference:  https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949
-
-
+   
 ### Task :  Make a Generic class and custom implementation of queue. So it can accept any type of object.
   Queue Implementation -      https://github.com/aminaibrahim/fantacodeintern/tree/master/queue
 
 <hr>
 <hr>
 
-## Module 2
-
+## MODULE 1                                                                             
+### DATE :(20/11/2017) - (25/11/2017)
+<br>
 
  - Using GitHub for Source Control.
  - Using Google to find what you are trying to achieve.
@@ -51,10 +51,9 @@
 <hr>
 <hr>
 
-## Module 3 
+## MODULE 1                                                                             
+### DATE :(20/11/2017) - (25/11/2017)
 <br>
-Date:(20/11/2017) - (25/11/2017)
-
 - Navigation - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=vlLdF7zALy
 - Passing Parameter to a Page - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=tlEn9ywoRGY
 - Tabbed Page - i) https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=bT1JeVLsVig

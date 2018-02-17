@@ -4,14 +4,15 @@
 
 
 
-## Weekly Assignments
+## WEEKLY ASSIGNMENTS
             
  <hr> 
 
    
 ## Module 1                                                                              A  
 <br>
-Date ()
+
+### DATE
 - Introduction to C# language
    Reference:  https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949
 

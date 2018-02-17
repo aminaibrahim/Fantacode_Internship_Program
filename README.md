@@ -57,10 +57,10 @@
   ### Task :  Two-page application which pass parameters from one page to other.
   
   
- -  Diary - https://github.com/aminaibrahim/fantacodeintern/tree/master/Diary  
+ - Diary - https://github.com/aminaibrahim/fantacodeintern/tree/master/Diary  
    Features :     
-   - Navigated from Main page to another page
-   - Read data from user and Passed parameters between pages
+     - Navigated from Main page to another page
+     - Read data from user and Passed parameters between pages
   <br>
   <hr>
   <hr>

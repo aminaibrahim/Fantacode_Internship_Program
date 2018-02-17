@@ -1,28 +1,26 @@
 # FantaCode Solutions Internship Program
 
   This repository is for publishing the tasks done as part of the internship program at FantaCode Solutions LLP, Calicut.
-
-
-
-## WEEKLY ASSIGNMENTS
-            
  <hr> 
-
+<br>
+## WEEKLY ASSIGNMENTS        
+ <hr> 
+<br>
    
 ## MODULE 1                                                                             
-### DATE :(20/11/2017) - (25/11/2017)
+### DATE :(4/11/2017) - (11/11/2017)
 <br>
 - Introduction to C# language <br>
-   Reference:  https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949
+  Reference:  https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949
    
 ### Task :  Make a Generic class and custom implementation of queue. So it can accept any type of object.
-  Queue Implementation -      https://github.com/aminaibrahim/fantacodeintern/tree/master/queue
+ - Queue Implementation -      https://github.com/aminaibrahim/fantacodeintern/tree/master/queue
 
 <hr>
 <hr>
 
-## MODULE 1                                                                             
-### DATE :(20/11/2017) - (25/11/2017)
+## MODULE 2                                                                            
+### DATE :(12/11/2017) - (18/11/2017)
 <br>
 
  - Using GitHub for Source Control.
@@ -44,14 +42,14 @@
                    
       
    QR Scanning APP - https://github.com/aminaibrahim/fantacodeintern/tree/master/Scan   
-   Features :              
+   Features : <br>             
    - QR Scanning Plugin - ZXing. Net. Mobile
    - Providing Camera permissions to app
                      
 <hr>
 <hr>
 
-## MODULE 1                                                                             
+## MODULE 3                                                                            
 ### DATE :(20/11/2017) - (25/11/2017)
 <br>
 - Navigation - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=vlLdF7zALy
@@ -68,10 +66,17 @@
 
   <hr>
   <hr>
-  
-## Module 4 (27/11/2017) - (2/12/2017)
+## MODULE 3                                                                            
+### DATE :(27/11/2017) - (2/12/2017)
+<br>
 
  - List View - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=xqF4G2kGFHI
  - ist View Item Template - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=xqF4G2kGFHI
  - ListView Styling - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=N0e3fPisIw8
  
+  ### Task :  Develop a multipage application with ListView and a detailed page. Preferably a simple To-Do app without any storage.
+
+To Do List - https://github.com/aminaibrahim/fantacodeintern/tree/master/To-Do-List
+Features:<br>
+ - ListView, ListView ItemTemplate and ListView Styling in Xamarin Forms.
+          

@@ -55,3 +55,12 @@
 - Passing Parameter to a Page - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=tlEn9ywoRGY
 - Tabbed Page - i) https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=bT1JeVLsVig
                 ii) https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=xqF4G2kGFHI
+  
+  ### Task :  Develop a single page Android and iOS application based on Xamarin Forms.
+          
+  Diary - https://github.com/aminaibrahim/fantacodeintern/tree/master/Diary
+  Feartures:
+•	Navigated from Main page to another page
+•	Read data from user and Passed parameters between pages
+
+  

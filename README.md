@@ -121,3 +121,23 @@
    <br>
    <hr>
    <hr>
+ ## MODULE 7 - ONSITE TRAINING
+                                                                                         
+### Date :(24/12/2017) - (02/01/2018)
+
+
+- Switch - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=SxdyYKpnHQI
+- Progress Bar - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=SxdyYKpnHQI
+- Toolbar Items - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=qv1X6eB0flw
+- Stack Panel - https://www.youtube.com/watch?list=PLpbcUe4chE78MmC5yfi0aSPnRj16x7Czl&v=nz7ZxUH-5G0
+
+  ### Task : Develop advanced apps
+  
+
+   
+ - Weather app - https://github.com/aminaibrahim/fantacodeintern/tree/master/Weather
+   Features :     
+   -  
+   <br>
+   <hr>
+   <hr>

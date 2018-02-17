@@ -9,7 +9,9 @@
  <hr> 
 
    
-## Module 1   <br><br><br><br><br>                                                                        &nbsp;Date (
+## Module 1  
+<br>
+Date ()
 - Introduction to C# language
    Reference:  https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949
 
@@ -49,7 +51,9 @@
 <hr>
 <hr>
 
-## Module 3 (20/11/2017) - (25/11/2017)
+## Module 3 
+<br>
+Date:(20/11/2017) - (25/11/2017)
 
 - Navigation - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=vlLdF7zALy
 - Passing Parameter to a Page - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=tlEn9ywoRGY

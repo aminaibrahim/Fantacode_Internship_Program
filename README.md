@@ -67,35 +67,55 @@ Features :
   - Navigated from Main page to another page
   - Read data from user and Passed parameters between pages
 
+   
 ## MODULE 4
-Date :(27/11/2017) - (2/12/2017)
+### Date: (27/11/2017) - (2/12/2017)
 
-List View - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=xqF4G2kGFHI
-List View Item Template - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=xqF4G2kGFHI
-ListView Styling - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=N0e3fPisIw8
-Task : Develop a multipage application with ListView and a detailed page. Preferably a simple To-Do app without any storage.
 
-To Do List - https://github.com/aminaibrahim/fantacodeintern/tree/master/To-Do-List Features :
 
-ListView, ListView ItemTemplate and ListView Styling in Xamarin Forms.
 
-MODULE 5
 
-Date :(4/12/2017) - (16/12/2017)
+ - List View - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=xqF4G2kGFHI
+ - List View Item Template - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=xqF4G2kGFHI
+ - ListView Styling - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=N0e3fPisIw8
 
-Xamarin Forms Styles - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=yaC0-C942wk
-MVVM DataBinding - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=uEn9FlLL5wo
-MVVM Commands - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=wmOrD7AcdCY
-Task : Convert the To-Do app you created on Week 4 to MVVM pattern.
+### Task : Develop a multipage application with ListView and a detailed page. Preferably a simple To-Do app without any storage.
 
-To Do List using MVVM- https://github.com/aminaibrahim/fantacodeintern/tree/master/DoList Features :
+ - To Do List - https://github.com/aminaibrahim/fantacodeintern/tree/master/To-Do-List
+  Features :
+  
+   - ListView, ListView ItemTemplate and ListView Styling in Xamarin Forms.
+<br>
+<hr>
+<hr>
 
-Model View ViewModel concept
-Binding Context
+   
+## MODULE 5
+### Date: (4/12/2017) - (16/12/2017)
 
-MODULE 6
 
-Date :(18/12/2017) - (22/12/2017)
+
+
+ - Xamarin Forms Styles - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=yaC0-C942wk
+ - MVVM DataBinding - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=uEn9FlLL5wo
+ - MVVM Commands - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=wmOrD7AcdCY
+
+
+### Task : Convert the To-Do app you created on Week 4 to MVVM pattern.
+
+- To Do List using MVVM- https://github.com/aminaibrahim/fantacodeintern/tree/master/DoList 
+Features :
+   - Model View ViewModel concept
+   - Binding Context
+<br>
+<hr>
+<hr>
+   
+## MODULE 6
+### Date:(18/12/2017) - (22/12/2017)
+
+
+ 
 
 Alerts, Action Sheets, Menu - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=0wNJqKJMg_s https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=jwetxvCP1mo
 
@@ -108,22 +128,27 @@ Task : Develop full-fledged offline apps.
 Diary - https://github.com/aminaibrahim/fantacodeintern/tree/master/My%20Diary Features :
 
 Display Alerts
+<hr>
+<hr>
 
-MODULE 7 - ONSITE TRAINING
 
-Date :(24/12/2017) - (02/01/2018)
+   
+## MODULE 7 - ONSITE TRAINING
+### Date:(24/12/2017) - (02/01/2018)
 
-Switch - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=SxdyYKpnHQI
 
-Progress Bar - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=SxdyYKpnHQI
 
-Toolbar Items - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=qv1X6eB0flw
+ - Switch - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=SxdyYKpnHQI
 
-Stack Panel - https://www.youtube.com/watch?list=PLpbcUe4chE78MmC5yfi0aSPnRj16x7Czl&v=nz7ZxUH-5G0
+ - Progress Bar - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=SxdyYKpnHQI
 
-Task : Develop advanced apps
+ - Toolbar Items - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=qv1X6eB0flw
 
-Weather app - https://github.com/aminaibrahim/fantacodeintern/tree/master/Weather Features :
+ - Stack Panel - https://www.youtube.com/watch?list=PLpbcUe4chE78MmC5yfi0aSPnRj16x7Czl&v=nz7ZxUH-5G0
+
+### Task : Develop advanced apps
+
+- Weather app - https://github.com/aminaibrahim/fantacodeintern/tree/master/Weather Features :
 
 
 

@@ -82,3 +82,22 @@
    <br>
    <hr>
    <hr>
+   
+   ## MODULE 5
+                                                                                         
+### Date :(4/12/2017) - (2/12/2017)
+
+ - Xamarin Forms Styles - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=yaC0-C942wk
+ - MVVM DataBinding - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=uEn9FlLL5wo
+ - MVVM Commands - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=wmOrD7AcdCY
+ 
+  ### Task : Convert the To-Do app you created on Week 4 to MVVM pattern.
+
+   
+ - To Do List using MVVM- https://github.com/aminaibrahim/fantacodeintern/tree/master/DoList
+   Features :     
+   -  Model View ViewModel concept
+   - Binding concepts
+   <br>
+   <hr>
+   <hr>

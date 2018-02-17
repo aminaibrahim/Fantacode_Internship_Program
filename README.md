@@ -35,8 +35,8 @@ The task for the second week of Internship is:
 
 Task : Develop a single page Android and iOS application based on Xamarin Forms.
 
-      BMI Calculator-  https://github.com/aminaibrahim/fantacodeintern/tree/master/BMI%20Calc
+   BMI Calculator-  https://github.com/aminaibrahim/fantacodeintern/tree/master/BMI%20Calc
       
-      QR Scanning APP - https://github.com/aminaibrahim/fantacodeintern/tree/master/Scan
+   QR Scanning APP - https://github.com/aminaibrahim/fantacodeintern/tree/master/Scan
        
 <hr>

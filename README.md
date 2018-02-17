@@ -36,10 +36,12 @@
    - Buttons, Labels and Entries to a page in the Xamarin Forms app
    - Changing background colour, text colour, padding, Button Text etc. 
   <br>
+   
  - QR Scanning APP - https://github.com/aminaibrahim/fantacodeintern/tree/master/Scan   
-   Features : <br>             
-   - QR Scanning Plugin - ZXing. Net. Mobile
-   - Providing Camera permissions to app                  
+   Features :     
+   -  QR Scanning Plugin - ZXing. Net. Mobile
+   - Providing Camera permissions to app          
+     <br>
 <hr>
 <hr>
 

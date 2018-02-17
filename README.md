@@ -6,16 +6,17 @@
 ## WEEKLY ASSIGNMENTS        
  <hr> 
 <br>
-## MODULE 1                                                                             
+## MODULE 1  <br>                                                                           
 ### Date :(4/11/2017) - (11/11/2017)
 <br>
 - Introduction to C# language <br>
-  Reference:  https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949
+ Reference:  https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949
+ 
 ### Task :  Make a Generic class and custom implementation of queue. So it can accept any type of object.
  - Queue Implementation -      https://github.com/aminaibrahim/fantacodeintern/tree/master/queue
 <hr>
 <hr>
-## MODULE 2                                                                            
+## MODULE 2 <br>                                                                           
 ### Date :(12/11/2017) - (18/11/2017)
 <br>
  - Using GitHub for Source Control.
@@ -41,7 +42,7 @@
    - Providing Camera permissions to app                  
 <hr>
 <hr>
-## MODULE 3                                                                            
+## MODULE 3  <br>                                                                          
 ### Date :(20/11/2017) - (25/11/2017)
 <br>
 - Navigation - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=vlLdF7zALy
@@ -56,7 +57,7 @@
  - Read data from user and Passed parameters between pages
   <hr>
   <hr>
-## MODULE 4                                                                            
+## MODULE 4 <br>                                                                           
 ### DATE :(27/11/2017) - (2/12/2017)
 <br>
  - List View - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=xqF4G2kGFHI

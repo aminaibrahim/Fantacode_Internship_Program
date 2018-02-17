@@ -2,23 +2,17 @@
 <hr>
 <hr>
   This repository is for publishing the tasks done as part of the internship program on Mobile App Development using Xamarin Forms  at FantaCode Solutions LLP, Calicut.
- <hr> 
-
-
-## Weekly Assignments
-            
-
-
+<hr> 
+<hr>
    
 ## Module 1- Introduction to C# language
 
 C# for Absolute Beginner.
 Reference:  https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949
 
-Task : Make a Generic class and custom implementation of queue. So it can accept any type of object.
- 
+##Task : Make a Generic class and custom implementation of queue. So it can accept any type of object. 
 <hr>
-
+<hr>
    
 ## Module 2- 
 

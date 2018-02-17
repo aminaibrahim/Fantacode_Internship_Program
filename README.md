@@ -66,7 +66,7 @@
   <hr>
   <hr>
   
-## Module 4 (27/11/2017) - (2/12/2017)
+## Module 4                                                                                     Date:  (27/11/2017) - (2/12/2017)
 
  - List View - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=xqF4G2kGFHI
  - ist View Item Template - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=xqF4G2kGFHI

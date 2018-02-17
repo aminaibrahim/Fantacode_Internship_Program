@@ -1,11 +1,6 @@
 # FantaCode Solutions Internship Program
 
   This repository is for publishing the tasks done as part of the internship on  Mobile App Development using Xamarin Forms at FantaCode Solutions LLP, Calicut.
- <hr> 
-<br>
-
-## WEEKLY ASSIGNMENTS      
- <hr> 
 <br>
 
 ## MODULE 1

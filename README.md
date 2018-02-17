@@ -10,8 +10,7 @@
 
    
 ## MODULE 1                                                                             
-<br>
-### Date:(20/11/2017) - (25/11/2017)
+### DATE :(20/11/2017) - (25/11/2017)
 <br>
 - Introduction to C# language
    Reference:  https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949

@@ -30,13 +30,13 @@
  - UI Properties – https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=F1SAD-rQ-4o
  
 ### Task :  Develop a single page Android and iOS application based on Xamarin Forms.
-
-   BMI Calculator-  https://github.com/aminaibrahim/fantacodeintern/tree/master/BMI%20Calc  
+ 
+ - BMI Calculator-  https://github.com/aminaibrahim/fantacodeintern/tree/master/BMI%20Calc  
    Features :     
    - Buttons, Labels and Entries to a page in the Xamarin Forms app
    - Changing background colour, text colour, padding, Button Text etc. 
   <br>
-   QR Scanning APP - https://github.com/aminaibrahim/fantacodeintern/tree/master/Scan   
+ - QR Scanning APP - https://github.com/aminaibrahim/fantacodeintern/tree/master/Scan   
    Features : <br>             
    - QR Scanning Plugin - ZXing. Net. Mobile
    - Providing Camera permissions to app                  
@@ -62,14 +62,16 @@
 ## MODULE 4
                                                                                          
 ### Date :(27/11/2017) - (2/12/2017)
-<br>
+
+
  - List View - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=xqF4G2kGFHI
  - List View Item Template - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=xqF4G2kGFHI
  - ListView Styling - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=N0e3fPisIw8
  
   ### Task :  Develop a multipage application with ListView and a detailed page. Preferably a simple To-Do app without any storage.
 
-To Do List - https://github.com/aminaibrahim/fantacodeintern/tree/master/To-Do-List
+
+ - To Do List - https://github.com/aminaibrahim/fantacodeintern/tree/master/To-Do-List
 Features:<br>
  - ListView, ListView ItemTemplate and ListView Styling in Xamarin Forms.
           

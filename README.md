@@ -3,7 +3,8 @@
   This repository is for publishing the tasks done as part of the internship on  Mobile App Development using Xamarin Forms at FantaCode Solutions LLP, Calicut.
  <hr> 
 <br>
-##WEEKLY ASSIGNMENTS        
+
+## WEEKLY ASSIGNMENTS      
  <hr> 
 <br>
 
@@ -12,12 +13,13 @@
 ### Date :(4/11/2017) - (11/11/2017)
 <br>
 - Introduction to C# language <br>
- Reference:  https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949
+     Reference:  https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949
  
 ### Task :  Make a Generic class and custom implementation of queue. So it can accept any type of object.
  - Queue Implementation -      https://github.com/aminaibrahim/fantacodeintern/tree/master/queue
 <hr>
 <hr>
+
 ## MODULE 2
                                                                                          
 ### Date :(12/11/2017) - (18/11/2017)

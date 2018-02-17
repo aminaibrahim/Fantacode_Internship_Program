@@ -123,10 +123,8 @@ Features :
 
  
 
- - Alerts, Action Sheets, Menu - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=0wNJqKJMg_s                                                     https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=jwetxvCP1mo
-
+ - Alerts, Action Sheets, Menu - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=0wNJqKJMg_s                https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=jwetxvCP1mo
  - Slider - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=1O7IeHNrKI
-
  - x:Reference - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=1_DnxuAlRq4
 
 ### Task : Develop full-fledged offline apps.

@@ -42,8 +42,9 @@
    - Providing Camera permissions to app                  
 <hr>
 <hr>
+
 ## MODULE 3
-                                                                                          
+            
 ### Date :(20/11/2017) - (25/11/2017)
 
 
@@ -53,12 +54,15 @@
                 ii) https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=xqF4G2kGFHI
   ### Task :  Two-page application which pass parameters from one page to other.
           
-  Diary - https://github.com/aminaibrahim/fantacodeintern/tree/master/Diary   
-  Features:  
+  Diary - https://github.com/aminaibrahim/fantacodeintern/tree/master/Diary  
+  
+  Features:
+  
  - Navigated from Main page to another page
  - Read data from user and Passed parameters between pages
   <hr>
   <hr>
+  
 ## MODULE 4
                                                                                          
 ### Date :(27/11/2017) - (2/12/2017)
@@ -72,6 +76,8 @@
 
 
  - To Do List - https://github.com/aminaibrahim/fantacodeintern/tree/master/To-Do-List
-Features:<br>
+ 
+Features:
+
  - ListView, ListView ItemTemplate and ListView Styling in Xamarin Forms.
           

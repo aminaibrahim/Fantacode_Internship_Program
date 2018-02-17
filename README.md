@@ -47,3 +47,11 @@
    - Providing Camera permissions to app
                      
 <hr>
+<hr>
+
+## Module 3 
+
+- Navigation - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=vlLdF7zALy
+- Passing Parameter to a Page - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=tlEn9ywoRGY
+- Tabbed Page - i) https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=bT1JeVLsVig
+                ii) https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=xqF4G2kGFHI

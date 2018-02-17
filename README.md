@@ -10,8 +10,23 @@
 
 
    
-## Task 1- Introduction to C# language
+## Module 1- Introduction to C# language
 
 C# for Absolute Beginner.
 Reference:  https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949
+
+<hr>
+
+   
+## Module 2- Introduction to C# language
+
+The task for the second week of Internship is:
+ - Using GitHub for Source Control.
+ - Using Google to find what you are trying to achieve.
+ - Identify major component of a Mobile Application.
  
+ Now Let's start building mobile apps:
+
+ - Content Page – https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=NP4Gea1j7Ig 
+ - Label, Buttons and Entries - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=HGFglKxXxVY
+ - UI Properties – https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=F1SAD-rQ-4o

@@ -41,7 +41,7 @@
    - Changing background colour, text colour, padding, Button Text etc. 
                    
       
-   QR Scanning APP - https://github.com/aminaibrahim/fantacodeintern/tree/master/Scan 
+   QR Scanning APP - https://github.com/aminaibrahim/fantacodeintern/tree/master/Scan   
    Features :              
    - QR Scanning Plugin - ZXing. Net. Mobile
    - Providing Camera permissions to app

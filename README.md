@@ -6,7 +6,9 @@
 ##WEEKLY ASSIGNMENTS        
  <hr> 
 <br>
-## MODULE 1  <br>                                                                           
+
+## MODULE 1
+                                                                           
 ### Date :(4/11/2017) - (11/11/2017)
 <br>
 - Introduction to C# language <br>

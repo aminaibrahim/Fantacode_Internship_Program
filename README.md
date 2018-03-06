@@ -160,7 +160,7 @@ Features :
   
  - ToDoApp  -https://github.com/aminaibrahim/fantacodeintern/tree/master/App2 <br>
 Features :
-  - MVVM Model
-  - Calling API
+   - MVVM Model
+   - Calling API
   
 

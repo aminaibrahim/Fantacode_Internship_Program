@@ -152,8 +152,11 @@ Features :
 
 ### Task : Develop advanced apps
 
-- Weather app - https://github.com/aminaibrahim/fantacodeintern/tree/master/Weather  <br>
+- Weather app - https://github.com/aminaibrahim/fantacodeintern/tree/master/Weather%20APP <br>
 Features :
-
+  - Using HttpClient - GetAsync method
+  - Using Xam.Plugin.Geolocator (for getting GPS location)
+  - Using Xam.Plugins.TextToSpeech (Text to Speech Plugin for Xamarin to perform text to speech functionality)
+  
  
 

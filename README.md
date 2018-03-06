@@ -158,5 +158,9 @@ Features :
   - Using Xam.Plugin.Geolocator (for getting GPS location)
   - Using Xam.Plugins.TextToSpeech (Text to Speech Plugin for Xamarin to perform text to speech functionality)
   
- 
+ - ToDoApp  -https://github.com/aminaibrahim/fantacodeintern/tree/master/App2 <br>
+Features :
+  - MVVM Model
+  - Calling API
+  
 

@@ -142,13 +142,6 @@ Features :
 
 
 
- - Switch - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=SxdyYKpnHQI
-
- - Progress Bar - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=SxdyYKpnHQI
-
- - Toolbar Items - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=qv1X6eB0flw
-
- - Stack Panel - https://www.youtube.com/watch?list=PLpbcUe4chE78MmC5yfi0aSPnRj16x7Czl&v=nz7ZxUH-5G0
 
 ### Task : Develop advanced apps
 
@@ -167,15 +160,77 @@ Features :
 Features :
    - Using Geolocator plugin
    
-   
- - CalInfo (Hackathon) -https://github.com/aminaibrahim/fantacodeintern/tree/master/Geolocator<br>
+ - CalInfo (Hackathon) -https://github.com/aminaibrahim/fantacodeintern/tree/master/Calinfo<br>
 Features :
    - Use of Carousal view
    - Grid Layout Sample
    - API Calling
    - MasterDetail Page
+<br>
+<hr>
+<hr>
+## MODULE 8
+### Date: (02/01/2018) - (08/01/2018)
+
+
+
+ - Switch - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=SxdyYKpnHQI
+ - Progress Bar - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=SxdyYKpnHQI
+ - Toolbar Items - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=qv1X6eB0flw
+ - Stack Panel - https://www.youtube.com/watch?list=PLpbcUe4chE78MmC5yfi0aSPnRj16x7Czl&v=nz7ZxUH-5G0
+
+<br>
+<hr>
+<hr>
+
+## MODULE 9
+### Date: (08/01/2018) - (13/01/2018)
+
+
+
+ - SQLLite - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=nrXmA-0NoOE
+ - Grid Column - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=OljtuytjVXs
+ - Animation - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=DvY6NmcLnaw
+ - Gesture Recognizers - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=jBHU1LKmEMI
+
+
+### Task : Develop a app using properties studied this week
+
+- DemoApp- https://github.com/aminaibrahim/fantacodeintern/tree/master/DemoApp <br>
+Features :
+   - Grid Implementation
+   - Animaion Features
+   - Rotation, Scaling, Translation
+   - Gesture Recognizers
    
+<br>
+<hr>
+<hr>
    
+
    
-  
+## MODULE 10
+### Date: (15/01/2018) - (20/01/2018)
+
+
+
+ - Search Bar -  https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=hAmcxAmbLcA
+ - ListView Header Template - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=hAmcxAmbLcA
+ - List View Data Template Selector - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=pdsEHEjyR-4
+ - Advanced Xamarin Forms MVVM - https://www.youtube.com/watch?list=PLpbcUe4chE7-uGCH1S0-qeuCWOMa2Tmam&v=USn6hgk-tLU
+ - Data Template Selector - https://www.youtube.com/watch?list=PLpbcUe4chE7-uGCH1S0-qeuCWOMa2Tmam&v=WByQQwctYgI
+
+
+### Task : Develop an app using properties studied this week
+
+- DemoApp- https://github.com/aminaibrahim/fantacodeintern/tree/master/Task_10 <br>
+Features :
+   - Datatemplate
+   - SearchBar
+   - ListView Header and Footer templates
+<br>
+<hr>
+<hr>
+   
+
 

@@ -281,3 +281,47 @@ Features :
 <hr>
    
 
+
+
+   
+## MODULE 13
+### Date: (04/02/2018) - (10/02/2018)
+
+
+ -   Dependency Injection (DI)
+             https://developer.xamarin.com/guides/xamarin-forms/enterprise-application-patterns/dependency-injection/
+             https://xamarinhelp.com/xamarin-forms-dependency-injection/
+             https://www.youtube.com/watch?v=YZKaNsIQp8o
+ -  This article will introduce to a library and different frameworks that can be used for coding in MVVM Pattern.
+             https://xamgirl.com/prism-in-xamarin-forms-step-by-step-part-1/
+
+
+
+### Task : Develop an app using properties studied this week
+
+- WebServicesDemo-  https://github.com/aminaibrahim/fantacodeintern/tree/master/Dependency%20Injenction <br>
+
+
+<br>
+<hr>
+<hr>
+
+## MODULE 14
+### Date: (04/02/2018) - (10/02/2018)
+
+
+ -  Unit Testing - https://www.youtube.com/watch?list=PLpbcUe4chE79VBVHr5qIi4T_rWa1esCqw&v=lp90llE_9-s
+ -  UI Testing - https://www.youtube.com/watch?list=PLpbcUe4chE79VBVHr5qIi4T_rWa1esCqw&v=hRexS3bbbsE
+
+### Task : Develop an app using properties studied this week
+
+- UnitTesting- https://github.com/aminaibrahim/fantacodeintern/tree/master/UnitTesting <br>
+- UITestng - https://github.com/aminaibrahim/fantacodeintern/tree/master/UITesting
+Features :
+   - Binding viewmodel to view via xaml page
+   - New Unit Test Framework project Creation
+   - Adding Reference
+   - Use of Automation Id in UITesting
+<br>
+<hr>
+<hr>

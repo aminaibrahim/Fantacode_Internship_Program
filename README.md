@@ -167,5 +167,15 @@ Features :
 Features :
    - Using Geolocator plugin
    
+   
+ - CalInfo (Hackathon) -https://github.com/aminaibrahim/fantacodeintern/tree/master/Geolocator<br>
+Features :
+   - Use of Carousal view
+   - Grid Layout Sample
+   - API Calling
+   - MasterDetail Page
+   
+   
+   
   
 

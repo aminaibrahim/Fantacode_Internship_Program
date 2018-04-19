@@ -11,9 +11,7 @@
 # Note: This is only used by command line
 ###############################################################################
 #*.cs     diff=csharp
-src/main/resources/static/* linguist-vendored
-linguist-language=csharp
-static/* linguist-vendored
+
 ###############################################################################
 # Set the merge driver for project and solution files
 #

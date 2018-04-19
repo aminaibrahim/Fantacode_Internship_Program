@@ -163,9 +163,9 @@ Features :
    - MVVM Model
    - Calling API
    
- - ToDoApp  -https://github.com/aminaibrahim/fantacodeintern/tree/master/App2 <br>
+ - GeoLocator -https://github.com/aminaibrahim/fantacodeintern/tree/master/Geolocator<br>
 Features :
-   - MVVM Model
-   - Calling API
+   - Using Geolocator plugin
+   
   
 

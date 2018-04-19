@@ -169,9 +169,10 @@ Features :
 <br>
 <hr>
 <hr>
-## MODULE 8
-### Date: (02/01/2018) - (08/01/2018)
 
+
+## MODULE 8
+### Date: (03/01/2018) - (07/01/2018)
 
 
  - Switch - https://www.youtube.com/watch?list=PLpbcUe4chE7-5t2mlamz6yB0qzAfO5Yln&v=SxdyYKpnHQI
@@ -233,4 +234,50 @@ Features :
 <hr>
    
 
+
+   
+## MODULE 11
+### Date: (22/01/2018) - (27/01/2018)
+
+
+
+  -  Connecting to Web Services - https://www.youtube.com/watch?list=PLpbcUe4chE7-uGCH1S0-qeuCWOMa2Tmam&v=Lir75oNAeiM
+  -  Connecting to Web Services
+       a. POST - https://www.youtube.com/watch?list=PLpbcUe4chE7-uGCH1S0-qeuCWOMa2Tmam&v=MPm5aY503pU
+       b. PUT, DELETE - https://www.youtube.com/watch?list=PLpbcUe4chE7-uGCH1S0-qeuCWOMa2Tmam&v=9DabKzNq6FI
+       c. SEARCH - https://www.youtube.com/watch?list=PLpbcUe4chE7-uGCH1S0-qeuCWOMa2Tmam&v=SyWRGJmrlVs
+
+
+
+### Task : Develop an app using properties studied this week
+
+- DemoApp- https://github.com/aminaibrahim/fantacodeintern/tree/master/WebServicesDemo <br>
+
+<br>
+<hr>
+<hr>
+     
+
+
+   
+## MODULE 12
+### Date: (28/01/2018) - (03/02/2018)
+
+
+ -   Advanced MVVM - https://www.youtube.com/watch?list=PLpbcUe4chE7-uGCH1S0-qeuCWOMa2Tmam&v=L6EsshOGmZs
+ -   View Model Locator and Application.Resource - https://www.youtube.com/watch?list=PLpbcUe4chE7-uGCH1S0-qeuCWOMa2Tmam&v=L6EsshOGmZs
+ -   Advanced Xamarin Forms UX - https://www.youtube.com/watch?list=PLpbcUe4chE7-uGCH1S0-qeuCWOMa2Tmam&v=WByQQwctYgI
+
+
+### Task : Develop an app using properties studied this week
+
+- WebServicesDemo-  https://github.com/aminaibrahim/fantacodeintern/tree/master/WebServicesDemo   <br>
+Features :
+   - created Web API
+   - connect to ASP.NET Web API 
+
+<br>
+<hr>
+<hr>
+   
 

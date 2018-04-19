@@ -145,6 +145,12 @@ Features :
 
 ### Task : Develop advanced apps
 
+- MasterDetailPage  https://github.com/aminaibrahim/fantacodeintern/tree/master/MasterDetail
+
+- SettingPlugin  https://github.com/aminaibrahim/fantacodeintern/tree/master/SettingsApp
+
+- TabbedPage  https://github.com/aminaibrahim/fantacodeintern/tree/master/Tabbed
+
 - Weather app - https://github.com/aminaibrahim/fantacodeintern/tree/master/Weather%20APP <br>
 Features :
   - Using HttpClient - GetAsync method
